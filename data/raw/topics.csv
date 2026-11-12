@@ -1,0 +1,213 @@
+topic_id,topic_name,category
+71,Infant feeding,Health & Wellness
+72,Obesity,Health & Wellness
+73,Nutritional diseases,Health & Wellness
+74,Postbiotics,Health & Wellness
+75,Eating behaviors,Health & Wellness
+76,Animal nutrition,Health & Wellness
+77,Fitness models,Health & Wellness
+78,Endurance,Health & Wellness
+79,Physical exercise,Health & Wellness
+80,Fitness apps,Health & Wellness
+81,Fitness influencers,Health & Wellness
+82,Flexibility,Health & Wellness
+83,Electrodiagnosis,Health & Wellness
+84,Medical devices,Health & Wellness
+85,Medical equipment,Health & Wellness
+86,Health informatics,Health & Wellness
+87,Biomaterials,Health & Wellness
+88,Biomedical engineering,Health & Wellness
+89,Medical knives,Health & Wellness
+90,Tissue engineering,Health & Wellness
+91,Dental technology,Health & Wellness
+92,Medical software,Health & Wellness
+93,Circadian rhythm,Health & Wellness
+94,Sleep physiology,Health & Wellness
+95,Hypnotics,Health & Wellness
+96,Sleep disorders,Health & Wellness
+97,Nightwear,Health & Wellness
+98,Sleep medicine,Health & Wellness
+99,Dreams,Health & Wellness
+100,Beds,Health & Wellness
+101,Financial software,Finance
+102,Banking technology,Finance
+103,Business intelligence,Finance
+104,E-commerce,Finance
+105,Incentives,Finance
+106,Retirement,Finance
+107,Informal finance,Finance
+108,Life insurance,Finance
+109,Personal taxes,Finance
+110,Finance websites,Finance
+111,Mortgage,Finance
+112,Bankruptcy,Finance
+113,Banking,Finance
+114,Household income,Finance
+115,Venture capital,Finance
+116,Valuation (finance),Finance
+117,Annuities,Finance
+118,Investment management,Finance
+119,Financial markets,Finance
+120,Sharia investment,Finance
+121,Bank deposits,Finance
+122,Infrastructure investment,Finance
+123,Investment clubs,Finance
+124,Investors,Finance
+125,Investment banking,Finance
+126,Ethical investment,Finance
+127,Capital (economics),Finance
+128,Capital budgeting,Finance
+129,Investment indicators,Finance
+130,Disinvestment,Finance
+131,Private equity,Finance
+132,Commodity markets,Finance
+133,Securities (finance),Finance
+134,Futures markets,Finance
+135,Market trends,Finance
+136,Yield (finance),Finance
+137,Market data,Finance
+138,Exchange-traded products,Finance
+139,Bond market,Finance
+140,Fixed income,Finance
+141,Algorithmic trading,Finance
+142,Efficient-market hypothesis,Finance
+143,Stock market,Finance
+144,Prediction markets,Finance
+145,Arbitrage,Finance
+146,Euronext markets,Finance
+147,Financial regulation,Finance
+148,Money markets,Finance
+149,Marketing,Finance
+150,Market risk,Finance
+151,Internet aesthetics,Entertainment & Media
+152,Social audio,Entertainment & Media
+153,Viral marketing,Entertainment & Media
+154,Internet subcultures,Entertainment & Media
+155,Social software,Entertainment & Media
+156,Social search,Entertainment & Media
+157,Hashtags,Entertainment & Media
+158,Pamphlet wars,Entertainment & Media
+159,Electronic music,Entertainment & Media
+160,Amplified instruments,Entertainment & Media
+161,Music software,Entertainment & Media
+162,Musical instruments,Entertainment & Media
+163,Music websites,Entertainment & Media
+164,Non-fungible tokens,Entertainment & Media
+165,Internet art,Entertainment & Media
+166,Algorithmic art,Entertainment & Media
+167,Internet music,Entertainment & Media
+168,Digital artists,Entertainment & Media
+169,Live coding,Entertainment & Media
+170,Digital artworks,Entertainment & Media
+171,Xerox art,Entertainment & Media
+172,Interactive art,Entertainment & Media
+173,ASCII art,Entertainment & Media
+174,AI art,Entertainment & Media
+175,Psychedelic replications,Entertainment & Media
+176,Biotechnology literature,Science
+177,Genome projects,Science
+178,Molecular genetics,Science
+179,Synthetic biology,Science
+180,Translational medicine,Science
+181,Bioinformatics,Science
+182,Single-nucleotide polymorphisms,Science
+183,Biotechnology products,Science
+184,Artificial organs,Science
+185,Biomagnetics,Science
+186,Biotechnologists,Science
+187,Cloning,Science
+188,Cell therapies,Science
+189,Pharmaceutical isolates,Science
+190,Biological warfare,Science
+191,Vaccination,Science
+192,Medical technology,Science
+193,Specialty drugs,Science
+194,Antibody–drug conjugate,Science
+195,DNA sequencing,Science
+196,Extraterrestrial landings,Science
+197,Space programs,Science
+198,Extraterrestrial orbiters,Science
+199,Space missions,Science
+200,Geneticists,Science
+201,Genetics concepts,Science
+202,Nucleobases,Science
+203,Genes,Science
+204,Classical genetics,Science
+205,Genomics,Science
+206,Chimerism,Science
+207,Hereditarianism,Science
+208,Nucleotides,Science
+209,Ribosomopathy,Science
+210,Genetics techniques,Science
+211,Mutation,Science
+212,Epigenetics,Science
+213,Quantitative genetics,Science
+214,Biopiracy,Science
+215,Applied genetics,Science
+216,Genetics databases,Science
+217,Genetics images,Science
+218,Chromosomes,Science
+219,Intelligence,Science
+220,Proprioception,Science
+221,Mind–body problem,Science
+222,Neurodiversity,Science
+223,Neuroimaging,Science
+224,Nervous system,Science
+225,Neuroethology,Science
+226,Neural engineering,Science
+227,Neural circuitry,Science
+228,Cognition,Science
+229,Lithography (microfabrication),Science
+230,Supramolecular chemistry,Science
+231,Silicon photonics,Science
+232,Quantum electronics,Science
+233,Nanomaterials,Science
+234,Nanomachines,Science
+235,Nanotechnology institutions,Science
+236,Nanoelectronics,Science
+237,Nanomedicine,Science
+238,Nanotechnology publications,Science
+239,Plasmonics,Science
+240,DNA nanotechnology,Science
+241,Nanotechnologists,Science
+242,Molecular electronics,Science
+243,Molecular machines,Science
+244,Optofluidics,Science
+245,Algaculture,Environment
+246,Wind power,Environment
+247,Anaerobic digestion,Environment
+248,Solar energy,Environment
+249,Geothermal energy,Environment
+250,Renewable electricity,Environment
+251,Bioenergy,Environment
+252,Water power,Environment
+253,Greenhouse gases,Environment
+254,Environmental engineering,Environment
+255,Environmental testing,Environment
+256,Environmental instrumentation,Environment
+257,Sustainable technologies,Environment
+258,Nutrient pollution,Environment
+259,Desert greening,Environment
+260,Organic farming,Environment
+261,Permaculture concepts,Environment
+262,Desert fruits,Environment
+263,Nitrogen-fixing crops,Environment
+264,Permaculture,Environment
+265,Urban agriculture,Environment
+266,Agroecology,Environment
+267,Composting,Environment
+268,Carbon farming,Environment
+269,Biophilia hypothesis,Environment
+270,Habitat,Environment
+271,Ecological restoration,Environment
+272,Introduced species,Environment
+273,Ecological connectivity,Environment
+274,Reforestation,Environment
+275,Conservation biologists,Environment
+276,Landscape ecology,Environment
+277,De-extinction,Environment
+278,Rewilding,Environment
+279,Animal reintroduction,Environment
+280,Conservation-reliant species,Environment
+281,Biodiversity,Environment
+282,Endemism,Environment
