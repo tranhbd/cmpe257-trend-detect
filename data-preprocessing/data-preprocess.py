@@ -6,9 +6,11 @@ and Sen's slope on non-overlapping 12-week windows. The first window with a
 statistically significant positive trend determines the emergence date.
 """
 import pandas as pd
+import numpy as np
 from pathlib import Path
 import pymannkendall as mk
 import warnings
+
 #GLOBAL VARIABLE
 
 #file path
@@ -20,6 +22,8 @@ GEO_PATH = RAW/"geographic_raw.csv"
 #labeling
 WINDOW_SIZE = 12
 SIGNIFICANCE_LEVEL = 0.05
+BURST_SCALE = 2.0
+BURST_PENALTY = 1.0
 
 #columns
 TEMP_COL = ["topic_id","topic_name","date","interest"]
