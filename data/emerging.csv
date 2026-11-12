@@ -1,0 +1,63 @@
+topic_id,topic_name,emerged,emergence_date
+1,Rule engines,1,2025-11-30
+10,AI software,1,2024-10-06
+12,Evolutionary computation,0,
+13,Fuzzy logic,1,2025-11-30
+14,AI supercomputers,0,
+15,Generative AI,1,2024-10-06
+19,BEAM robotics,0,
+2,Affective computing,1,2025-11-30
+20,Robotics hardware,1,2025-11-30
+21,Medical robotics,1,2025-11-30
+22,Robotics software,1,2024-10-06
+23,Industrial robotics,1,2025-11-30
+24,Robotics projects,1,2025-11-30
+25,Robotics engineering,1,2025-09-07
+26,Physical computing,1,2024-10-06
+27,Robotics events,1,2025-11-30
+28,Cloud robotics,0,
+3,15.ai,1,2024-07-14
+30,Military robotics,1,2025-11-30
+31,Self-driving cars,1,2024-10-06
+32,Robotic manipulation,1,2025-09-07
+33,Robotic art,1,2025-11-30
+34,Cyborgs,1,2025-09-07
+35,Robots,1,2024-10-06
+36,Containerization software,1,2026-02-22
+37,Cloud storage,1,2025-06-15
+39,Cloud clients,1,2024-10-06
+4,AI safety,1,2025-11-30
+40,Serverless computing,1,2026-02-22
+41,Cloud infrastructure,1,2025-03-23
+42,Cloud gaming,1,2024-12-29
+43,Cloud platforms,1,2025-03-23
+44,Cloud databases,1,2025-06-15
+45,Cloud standards,1,2026-02-22
+46,Cloud applications,1,2024-10-06
+47,Nextcloud,1,2024-12-29
+48,Web desktops,0,
+49,Virtual avatars,0,
+5,Argument technology,1,2024-10-06
+50,Haptic technology,0,
+51,Psychoacoustics,0,
+52,Metaverse,1,2025-11-30
+53,Spatial computing,1,2024-10-06
+54,Virtual pets,1,2026-02-22
+55,Virtual economy,1,2025-11-30
+56,Holography,1,2025-11-30
+57,Nutritional deficiencies,1,2026-02-22
+58,Prebiotics (nutrition),0,
+59,Nutritional education,1,2024-10-06
+6,Ambient intelligence,1,2026-02-22
+60,Food chains,1,2024-10-06
+61,Dehydration,1,2024-07-14
+62,Probiotics,0,
+63,Dietetics,1,2026-02-22
+64,Hunger,1,2024-04-21
+65,Enteral feeding,1,2024-10-06
+68,Drinking behaviors,1,2024-10-06
+69,Plant nutrition,1,2024-10-06
+7,Knowledge representation,1,2024-10-06
+70,Nutritionists,1,2024-10-06
+8,AI risk,1,2025-03-23
+9,Automated reasoning,1,2026-05-17

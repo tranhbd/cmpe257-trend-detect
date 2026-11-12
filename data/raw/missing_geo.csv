@@ -1,0 +1,157 @@
+topic_id,topic_name,state,reason
+1,Rule engines,IL,No geographic data
+1,Rule engines,OH,No geographic data
+1,Rule engines,NC,No geographic data
+1,Rule engines,NY,No geographic data
+2,Affective computing,WA,No geographic data
+2,Affective computing,TX,No geographic data
+2,Affective computing,MI,No geographic data
+2,Affective computing,OH,No geographic data
+2,Affective computing,GA,No geographic data
+2,Affective computing,NC,No geographic data
+2,Affective computing,NY,No geographic data
+3,15.ai,AZ,No geographic data
+3,15.ai,CO,No geographic data
+3,15.ai,TX,No geographic data
+3,15.ai,MN,No geographic data
+3,15.ai,OH,No geographic data
+3,15.ai,MA,No geographic data
+6,Ambient intelligence,WA,No geographic data
+6,Ambient intelligence,AZ,No geographic data
+6,Ambient intelligence,OH,No geographic data
+6,Ambient intelligence,NC,No geographic data
+6,Ambient intelligence,VA,No geographic data
+6,Ambient intelligence,MA,No geographic data
+7,Knowledge representation,MI,No geographic data
+9,Automated reasoning,AZ,No geographic data
+9,Automated reasoning,MN,No geographic data
+9,Automated reasoning,GA,No geographic data
+9,Automated reasoning,VA,No geographic data
+9,Automated reasoning,MA,No geographic data
+12,Evolutionary computation,AZ,No geographic data
+12,Evolutionary computation,CO,No geographic data
+12,Evolutionary computation,MN,No geographic data
+12,Evolutionary computation,MI,No geographic data
+12,Evolutionary computation,OH,No geographic data
+12,Evolutionary computation,FL,No geographic data
+12,Evolutionary computation,NY,No geographic data
+13,Fuzzy logic,MN,No geographic data
+14,AI supercomputers,CA,No geographic data
+14,AI supercomputers,MI,No geographic data
+14,AI supercomputers,FL,No geographic data
+14,AI supercomputers,MA,No geographic data
+19,BEAM robotics,CO,No geographic data
+19,BEAM robotics,MN,No geographic data
+19,BEAM robotics,IL,No geographic data
+19,BEAM robotics,MI,No geographic data
+19,BEAM robotics,OH,No geographic data
+19,BEAM robotics,GA,No geographic data
+19,BEAM robotics,FL,No geographic data
+19,BEAM robotics,NC,No geographic data
+19,BEAM robotics,VA,No geographic data
+19,BEAM robotics,NY,No geographic data
+19,BEAM robotics,MA,No geographic data
+20,Robotics hardware,CO,No geographic data
+20,Robotics hardware,MN,No geographic data
+20,Robotics hardware,GA,No geographic data
+24,Robotics projects,WA,No geographic data
+24,Robotics projects,AZ,No geographic data
+24,Robotics projects,CO,No geographic data
+24,Robotics projects,MN,No geographic data
+24,Robotics projects,MI,No geographic data
+24,Robotics projects,NC,No geographic data
+26,Physical computing,CO,No geographic data
+26,Physical computing,MN,No geographic data
+27,Robotics events,OH,No geographic data
+28,Cloud robotics,NC,No geographic data
+30,Military robotics,AZ,No geographic data
+30,Military robotics,CO,No geographic data
+30,Military robotics,MI,No geographic data
+30,Military robotics,GA,No geographic data
+30,Military robotics,NC,No geographic data
+30,Military robotics,VA,No geographic data
+31,Self-driving cars,WA,No geographic data
+31,Self-driving cars,MN,No geographic data
+32,Robotic manipulation,CO,No geographic data
+32,Robotic manipulation,MA,No geographic data
+33,Robotic art,AZ,No geographic data
+33,Robotic art,CO,No geographic data
+33,Robotic art,MN,No geographic data
+33,Robotic art,MI,No geographic data
+33,Robotic art,GA,No geographic data
+33,Robotic art,MA,No geographic data
+34,Cyborgs,MN,No geographic data
+36,Containerization software,WA,No geographic data
+36,Containerization software,AZ,No geographic data
+36,Containerization software,TX,No geographic data
+36,Containerization software,MN,No geographic data
+36,Containerization software,IL,No geographic data
+36,Containerization software,MI,No geographic data
+36,Containerization software,OH,No geographic data
+36,Containerization software,FL,No geographic data
+36,Containerization software,NC,No geographic data
+36,Containerization software,VA,No geographic data
+36,Containerization software,NY,No geographic data
+39,Cloud clients,MI,No geographic data
+44,Cloud databases,WA,No geographic data
+44,Cloud databases,AZ,No geographic data
+48,Web desktops,CA,No geographic data
+48,Web desktops,AZ,No geographic data
+48,Web desktops,CO,No geographic data
+48,Web desktops,MN,No geographic data
+48,Web desktops,IL,No geographic data
+48,Web desktops,MI,No geographic data
+48,Web desktops,OH,No geographic data
+48,Web desktops,GA,No geographic data
+48,Web desktops,FL,No geographic data
+48,Web desktops,NC,No geographic data
+48,Web desktops,VA,No geographic data
+48,Web desktops,MA,No geographic data
+49,Virtual avatars,AZ,No geographic data
+49,Virtual avatars,CO,No geographic data
+49,Virtual avatars,IL,No geographic data
+49,Virtual avatars,OH,No geographic data
+49,Virtual avatars,GA,No geographic data
+49,Virtual avatars,NC,No geographic data
+49,Virtual avatars,MA,No geographic data
+50,Haptic technology,WA,No geographic data
+50,Haptic technology,AZ,No geographic data
+50,Haptic technology,CO,No geographic data
+50,Haptic technology,MN,No geographic data
+50,Haptic technology,IL,No geographic data
+50,Haptic technology,MI,No geographic data
+50,Haptic technology,GA,No geographic data
+50,Haptic technology,FL,No geographic data
+50,Haptic technology,VA,No geographic data
+51,Psychoacoustics,WA,No geographic data
+51,Psychoacoustics,CO,No geographic data
+51,Psychoacoustics,IL,No geographic data
+51,Psychoacoustics,MI,No geographic data
+51,Psychoacoustics,FL,No geographic data
+51,Psychoacoustics,NC,No geographic data
+51,Psychoacoustics,VA,No geographic data
+51,Psychoacoustics,MA,No geographic data
+53,Spatial computing,AZ,No geographic data
+53,Spatial computing,CO,No geographic data
+53,Spatial computing,IL,No geographic data
+53,Spatial computing,OH,No geographic data
+53,Spatial computing,GA,No geographic data
+53,Spatial computing,MA,No geographic data
+54,Virtual pets,WA,No geographic data
+54,Virtual pets,AZ,No geographic data
+54,Virtual pets,MN,No geographic data
+54,Virtual pets,MI,No geographic data
+54,Virtual pets,OH,No geographic data
+54,Virtual pets,GA,No geographic data
+54,Virtual pets,NC,No geographic data
+54,Virtual pets,MA,No geographic data
+55,Virtual economy,MN,No geographic data
+56,Holography,NC,No geographic data
+57,Nutritional deficiencies,WA,No geographic data
+58,Prebiotics (nutrition),AZ,No geographic data
+58,Prebiotics (nutrition),CO,No geographic data
+58,Prebiotics (nutrition),TX,No geographic data
+58,Prebiotics (nutrition),OH,No geographic data
+58,Prebiotics (nutrition),VA,No geographic data
+58,Prebiotics (nutrition),MA,No geographic data
+68,Drinking behaviors,MN,No geographic data
