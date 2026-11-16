@@ -1,31 +1,182 @@
 topic_id,topic_name,emerged,emergence_date
 1,Rule engines,1,2025-11-30
-10,AI software,1,2024-10-06
+10,AI software,1,2025-03-23
+100,Beds,0,
+101,Financial software,1,2025-03-23
+102,Banking technology,1,2025-03-23
+103,Business intelligence,1,2026-02-22
+104,E-commerce,1,2025-06-15
+105,Incentives,1,2026-02-22
+106,Retirement,0,
+107,Informal finance,1,2026-02-22
+108,Life insurance,0,
+109,Personal taxes,1,2026-02-22
+110,Finance websites,0,
+111,Mortgage,0,
+112,Bankruptcy,0,
+113,Banking,0,
+114,Household income,1,2026-02-22
+115,Venture capital,1,2026-02-22
+116,Valuation (finance),1,2025-09-07
+117,Annuities,1,2025-03-23
+118,Investment management,0,
+119,Financial markets,1,2026-02-22
 12,Evolutionary computation,0,
-13,Fuzzy logic,1,2025-11-30
+120,Sharia investment,0,
+121,Bank deposits,1,2024-04-21
+122,Infrastructure investment,1,2026-02-22
+123,Investment clubs,1,2024-10-06
+124,Investors,1,2026-02-22
+125,Investment banking,0,
+126,Ethical investment,1,2024-10-06
+127,Capital (economics),1,2025-09-07
+128,Capital budgeting,1,2025-11-30
+129,Investment indicators,1,2024-04-21
+13,Fuzzy logic,1,2026-02-22
+130,Disinvestment,0,
+131,Private equity,1,2026-02-22
+132,Commodity markets,1,2024-10-06
+133,Securities (finance),0,
+134,Futures markets,1,2025-03-23
+135,Market trends,1,2026-02-22
+136,Yield (finance),1,2025-11-30
+137,Market data,1,2026-02-22
+139,Bond market,1,2026-02-22
 14,AI supercomputers,0,
-15,Generative AI,1,2024-10-06
+140,Fixed income,0,
+141,Algorithmic trading,1,2026-02-22
+143,Stock market,0,
+144,Prediction markets,1,2024-07-14
+145,Arbitrage,1,2026-02-22
+147,Financial regulation,1,2025-11-30
+148,Money markets,1,2025-11-30
+149,Marketing,0,
+15,Generative AI,1,2025-03-23
+150,Market risk,1,2024-04-21
+151,Internet aesthetics,1,2026-02-22
+152,Social audio,1,2025-11-30
+153,Viral marketing,1,2026-02-22
+155,Social software,1,2025-03-23
+156,Social search,1,2026-02-22
+157,Hashtags,0,
+159,Electronic music,1,2026-02-22
+161,Music software,0,
+162,Musical instruments,0,
+163,Music websites,1,2024-10-06
+165,Internet art,1,2026-02-22
+166,Algorithmic art,1,2026-02-22
+167,Internet music,1,2026-02-22
+168,Digital artists,1,2025-11-30
+169,Live coding,1,2025-06-15
+170,Digital artworks,1,2026-02-22
+171,Xerox art,1,2026-05-17
+172,Interactive art,1,2026-02-22
+173,ASCII art,0,
+174,AI art,1,2026-02-22
+176,Biotechnology literature,0,
+177,Genome projects,0,
+178,Molecular genetics,1,2026-02-22
+179,Synthetic biology,1,2025-11-30
+180,Translational medicine,1,2026-02-22
+181,Bioinformatics,1,2026-02-22
+183,Biotechnology products,0,
+184,Artificial organs,1,2024-10-06
+187,Cloning,1,2025-11-30
+188,Cell therapies,1,2026-02-22
 19,BEAM robotics,0,
+190,Biological warfare,1,2026-02-22
+191,Vaccination,1,2026-02-22
+192,Medical technology,1,2026-02-22
+193,Specialty drugs,1,2025-11-30
+195,DNA sequencing,0,
+197,Space programs,1,2025-03-23
+199,Space missions,1,2024-10-06
 2,Affective computing,1,2025-11-30
 20,Robotics hardware,1,2025-11-30
+200,Geneticists,0,
+201,Genetics concepts,1,2024-04-21
+202,Nucleobases,1,2026-02-22
+203,Genes,1,2025-11-30
+204,Classical genetics,1,2026-02-22
+205,Genomics,1,2026-02-22
+206,Chimerism,1,2026-08-09
+208,Nucleotides,1,2024-10-06
 21,Medical robotics,1,2025-11-30
-22,Robotics software,1,2024-10-06
+210,Genetics techniques,1,2026-02-22
+211,Mutation,0,
+212,Epigenetics,0,
+213,Quantitative genetics,1,2024-10-06
+214,Biopiracy,0,
+215,Applied genetics,1,2026-02-22
+217,Genetics images,1,2025-11-30
+218,Chromosomes,1,2025-11-30
+219,Intelligence,1,2026-02-22
+22,Robotics software,0,
+220,Proprioception,0,
+222,Neurodiversity,1,2024-04-21
+223,Neuroimaging,1,2024-10-06
+224,Nervous system,0,
+226,Neural engineering,1,2025-11-30
+227,Neural circuitry,1,2026-02-22
+228,Cognition,1,2025-11-30
 23,Industrial robotics,1,2025-11-30
+230,Supramolecular chemistry,1,2026-02-22
+231,Silicon photonics,0,
+232,Quantum electronics,1,2025-11-30
+233,Nanomaterials,1,2025-11-30
+234,Nanomachines,0,
+236,Nanoelectronics,0,
+237,Nanomedicine,1,2025-11-30
+239,Plasmonics,1,2026-02-22
 24,Robotics projects,1,2025-11-30
+240,DNA nanotechnology,1,2026-05-17
+242,Molecular electronics,0,
+243,Molecular machines,1,2026-02-22
+246,Wind power,1,2025-11-30
+247,Anaerobic digestion,1,2025-11-30
+248,Solar energy,0,
+249,Geothermal energy,1,2025-11-30
 25,Robotics engineering,1,2025-09-07
+250,Renewable electricity,1,2025-03-23
+251,Bioenergy,1,2025-11-30
+252,Water power,1,2026-02-22
+253,Greenhouse gases,1,2024-04-21
+254,Environmental engineering,0,
+255,Environmental testing,0,
+256,Environmental instrumentation,0,
+257,Sustainable technologies,1,2026-02-22
+258,Nutrient pollution,1,2025-03-23
 26,Physical computing,1,2024-10-06
+260,Organic farming,1,2026-02-22
+262,Desert fruits,1,2026-02-22
+264,Permaculture,1,2025-03-23
+265,Urban agriculture,1,2025-03-23
+266,Agroecology,1,2025-11-30
+267,Composting,1,2024-04-21
+268,Carbon farming,1,2025-11-30
 27,Robotics events,1,2025-11-30
+270,Habitat,1,2026-05-17
+271,Ecological restoration,1,2026-02-22
+272,Introduced species,1,2026-11-01
+273,Ecological connectivity,1,2026-02-22
+274,Reforestation,0,
+275,Conservation biologists,0,
+276,Landscape ecology,1,2026-02-22
+277,De-extinction,1,2026-11-01
+278,Rewilding,1,2024-04-21
 28,Cloud robotics,0,
+281,Biodiversity,1,2024-04-21
+282,Endemism,1,2026-02-22
 3,15.ai,1,2024-07-14
 30,Military robotics,1,2025-11-30
-31,Self-driving cars,1,2024-10-06
+31,Self-driving cars,0,
 32,Robotic manipulation,1,2025-09-07
 33,Robotic art,1,2025-11-30
 34,Cyborgs,1,2025-09-07
-35,Robots,1,2024-10-06
+35,Robots,0,
 36,Containerization software,1,2026-02-22
-37,Cloud storage,1,2025-06-15
-39,Cloud clients,1,2024-10-06
+37,Cloud storage,1,2026-02-22
+39,Cloud clients,0,
 4,AI safety,1,2025-11-30
 40,Serverless computing,1,2026-02-22
 41,Cloud infrastructure,1,2025-03-23
@@ -33,31 +184,59 @@ topic_id,topic_name,emerged,emergence_date
 43,Cloud platforms,1,2025-03-23
 44,Cloud databases,1,2025-06-15
 45,Cloud standards,1,2026-02-22
-46,Cloud applications,1,2024-10-06
-47,Nextcloud,1,2024-12-29
+46,Cloud applications,1,2025-03-23
+47,Nextcloud,0,
 48,Web desktops,0,
 49,Virtual avatars,0,
-5,Argument technology,1,2024-10-06
+5,Argument technology,1,2025-11-30
 50,Haptic technology,0,
 51,Psychoacoustics,0,
-52,Metaverse,1,2025-11-30
-53,Spatial computing,1,2024-10-06
+52,Metaverse,1,2026-02-22
+53,Spatial computing,1,2025-06-15
 54,Virtual pets,1,2026-02-22
 55,Virtual economy,1,2025-11-30
-56,Holography,1,2025-11-30
-57,Nutritional deficiencies,1,2026-02-22
+56,Holography,1,2026-02-22
+57,Nutritional deficiencies,1,2026-05-17
 58,Prebiotics (nutrition),0,
-59,Nutritional education,1,2024-10-06
+59,Nutritional education,1,2026-02-22
 6,Ambient intelligence,1,2026-02-22
-60,Food chains,1,2024-10-06
-61,Dehydration,1,2024-07-14
+60,Food chains,0,
+61,Dehydration,1,2026-05-17
 62,Probiotics,0,
-63,Dietetics,1,2026-02-22
-64,Hunger,1,2024-04-21
-65,Enteral feeding,1,2024-10-06
+63,Dietetics,1,2026-05-17
+64,Hunger,0,
+65,Enteral feeding,0,
 68,Drinking behaviors,1,2024-10-06
-69,Plant nutrition,1,2024-10-06
-7,Knowledge representation,1,2024-10-06
-70,Nutritionists,1,2024-10-06
+69,Plant nutrition,1,2026-02-22
+7,Knowledge representation,1,2026-02-22
+70,Nutritionists,0,
+71,Infant feeding,1,2026-02-22
+72,Obesity,1,2026-02-22
+73,Nutritional diseases,0,
+74,Postbiotics,1,2026-05-17
+75,Eating behaviors,1,2024-04-21
+76,Animal nutrition,1,2025-11-30
+77,Fitness models,1,2026-02-22
+78,Endurance,0,
+79,Physical exercise,0,
 8,AI risk,1,2025-03-23
+80,Fitness apps,0,
+81,Fitness influencers,0,
+82,Flexibility,0,
+84,Medical devices,1,2026-02-22
+85,Medical equipment,0,
+86,Health informatics,1,2026-02-22
+87,Biomaterials,1,2026-02-22
+88,Biomedical engineering,0,
+89,Medical knives,0,
 9,Automated reasoning,1,2026-05-17
+90,Tissue engineering,1,2025-11-30
+91,Dental technology,1,2025-06-15
+92,Medical software,1,2025-03-23
+93,Circadian rhythm,0,
+94,Sleep physiology,1,2026-02-22
+95,Hypnotics,0,
+96,Sleep disorders,0,
+97,Nightwear,0,
+98,Sleep medicine,1,2026-02-22
+99,Dreams,0,
