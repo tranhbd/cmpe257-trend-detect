@@ -22,8 +22,7 @@ GEO_PATH = RAW/"geographic_raw.csv"
 #labeling
 WINDOW_SIZE = 12
 SIGNIFICANCE_LEVEL = 0.05
-BURST_SCALE = 2.0
-BURST_PENALTY = 1.0
+MIN_INCREASE = 0.25
 
 #columns
 TEMP_COL = ["topic_id","topic_name","date","interest"]
@@ -65,12 +64,29 @@ def clean_data(data, keys):
 def find_emergence_date(topic):
     #loop through each row of same topic, divide them
     #by windows of weeks, then perfrom Mann-Kendall tests
-    for start in range(0,len(topic) - WINDOW_SIZE +1,WINDOW_SIZE):
-        window = topic.iloc[start:start+WINDOW_SIZE]
-        values = window["interest"].to_numpy()
+    for start in range(WINDOW_SIZE,len(topic) - WINDOW_SIZE +1,WINDOW_SIZE):
+        prev_window = topic.iloc[start-WINDOW_SIZE:start]
+        cur_window = topic.iloc[start:start+WINDOW_SIZE]
+        prev_values = prev_window["interest"].to_numpy()
+        cur_values = cur_window["interest"].to_numpy()
+
+        #average interest of both windows
+        prev_average = np.mean(prev_values)
+        cur_average = np.mean(cur_values)
         
+        #if previous window is 0
+        if prev_average == 0:
+            if cur_average > 0:
+                increase = float("inf")
+            else:
+                increase = 0
+        else:
+            increase =(cur_average-prev_average)/prev_average
+        
+        if increase < MIN_INCREASE:
+            continue  
         #skip windows with indentical interest values
-        if len(set(values)) == 1:
+        if len(set(cur_values)) == 1:
             continue
         
         #run the windows with Hamed_Rao
@@ -78,16 +94,16 @@ def find_emergence_date(topic):
             with warnings.catch_warnings():
                 warnings.simplefilter("error", RuntimeWarning)
 
-                result = mk.hamed_rao_modification_test(values,alpha=SIGNIFICANCE_LEVEL)
+                result = mk.hamed_rao_modification_test(cur_values,alpha=SIGNIFICANCE_LEVEL)
 
         except RuntimeWarning:
             print(f"Numerical warning for topic: {topic.iloc[0]['topic_name']}")
-            print(f"Window values: {values}")
+            print(f"Window values: {cur_values}")
             continue     
            
         #return the last date of the rising/emerging window
         if(result.p<SIGNIFICANCE_LEVEL and result.slope >0):
-            return window.iloc[-1]["date"].strftime("%Y-%m-%d")
+            return cur_window.iloc[-1]["date"].strftime("%Y-%m-%d")
     return ""
 
 #create emerging labels

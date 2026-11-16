@@ -155,3 +155,262 @@ topic_id,topic_name,state,reason
 58,Prebiotics (nutrition),VA,No geographic data
 58,Prebiotics (nutrition),MA,No geographic data
 68,Drinking behaviors,MN,No geographic data
+73,Nutritional diseases,AZ,No geographic data
+73,Nutritional diseases,CO,No geographic data
+73,Nutritional diseases,VA,No geographic data
+73,Nutritional diseases,MA,No geographic data
+74,Postbiotics,CO,No geographic data
+74,Postbiotics,MA,No geographic data
+81,Fitness influencers,MN,No geographic data
+89,Medical knives,WA,No geographic data
+89,Medical knives,AZ,No geographic data
+89,Medical knives,CO,No geographic data
+89,Medical knives,MN,No geographic data
+89,Medical knives,FL,No geographic data
+94,Sleep physiology,WA,No geographic data
+94,Sleep physiology,GA,No geographic data
+94,Sleep physiology,NC,No geographic data
+94,Sleep physiology,MA,No geographic data
+97,Nightwear,MN,No geographic data
+107,Informal finance,CA,No geographic data
+107,Informal finance,IL,No geographic data
+107,Informal finance,GA,No geographic data
+107,Informal finance,VA,No geographic data
+107,Informal finance,MA,No geographic data
+116,Valuation (finance),CO,No geographic data
+120,Sharia investment,CA,No geographic data
+120,Sharia investment,WA,No geographic data
+120,Sharia investment,CO,No geographic data
+120,Sharia investment,TX,No geographic data
+120,Sharia investment,IL,No geographic data
+120,Sharia investment,MI,No geographic data
+120,Sharia investment,OH,No geographic data
+120,Sharia investment,GA,No geographic data
+120,Sharia investment,NC,No geographic data
+120,Sharia investment,NY,No geographic data
+120,Sharia investment,MA,No geographic data
+123,Investment clubs,AZ,No geographic data
+123,Investment clubs,NC,No geographic data
+126,Ethical investment,OH,No geographic data
+129,Investment indicators,CO,No geographic data
+129,Investment indicators,IL,No geographic data
+129,Investment indicators,MI,No geographic data
+129,Investment indicators,OH,No geographic data
+129,Investment indicators,GA,No geographic data
+129,Investment indicators,NC,No geographic data
+129,Investment indicators,MA,No geographic data
+130,Disinvestment,WA,No geographic data
+130,Disinvestment,CO,No geographic data
+130,Disinvestment,OH,No geographic data
+130,Disinvestment,NC,No geographic data
+133,Securities (finance),MN,No geographic data
+141,Algorithmic trading,AZ,No geographic data
+151,Internet aesthetics,CO,No geographic data
+151,Internet aesthetics,MN,No geographic data
+151,Internet aesthetics,MI,No geographic data
+151,Internet aesthetics,OH,No geographic data
+151,Internet aesthetics,GA,No geographic data
+151,Internet aesthetics,NY,No geographic data
+151,Internet aesthetics,MA,No geographic data
+166,Algorithmic art,WA,No geographic data
+166,Algorithmic art,AZ,No geographic data
+166,Algorithmic art,CO,No geographic data
+166,Algorithmic art,TX,No geographic data
+166,Algorithmic art,MN,No geographic data
+166,Algorithmic art,OH,No geographic data
+166,Algorithmic art,NC,No geographic data
+166,Algorithmic art,VA,No geographic data
+170,Digital artworks,WA,No geographic data
+170,Digital artworks,AZ,No geographic data
+170,Digital artworks,CO,No geographic data
+170,Digital artworks,TX,No geographic data
+170,Digital artworks,MN,No geographic data
+170,Digital artworks,MI,No geographic data
+170,Digital artworks,NC,No geographic data
+170,Digital artworks,VA,No geographic data
+171,Xerox art,CA,No geographic data
+171,Xerox art,WA,No geographic data
+171,Xerox art,AZ,No geographic data
+171,Xerox art,CO,No geographic data
+171,Xerox art,MN,No geographic data
+171,Xerox art,IL,No geographic data
+171,Xerox art,MI,No geographic data
+171,Xerox art,FL,No geographic data
+171,Xerox art,NC,No geographic data
+171,Xerox art,VA,No geographic data
+171,Xerox art,NY,No geographic data
+176,Biotechnology literature,WA,No geographic data
+176,Biotechnology literature,MN,No geographic data
+176,Biotechnology literature,NC,No geographic data
+176,Biotechnology literature,VA,No geographic data
+176,Biotechnology literature,NY,No geographic data
+176,Biotechnology literature,MA,No geographic data
+177,Genome projects,WA,No geographic data
+177,Genome projects,TX,No geographic data
+177,Genome projects,NC,No geographic data
+177,Genome projects,MA,No geographic data
+178,Molecular genetics,MN,No geographic data
+179,Synthetic biology,MN,No geographic data
+183,Biotechnology products,WA,No geographic data
+183,Biotechnology products,CO,No geographic data
+183,Biotechnology products,GA,No geographic data
+183,Biotechnology products,VA,No geographic data
+184,Artificial organs,WA,No geographic data
+184,Artificial organs,CO,No geographic data
+184,Artificial organs,MN,No geographic data
+184,Artificial organs,VA,No geographic data
+184,Artificial organs,MA,No geographic data
+193,Specialty drugs,CO,No geographic data
+200,Geneticists,WA,No geographic data
+200,Geneticists,CO,No geographic data
+200,Geneticists,VA,No geographic data
+200,Geneticists,MA,No geographic data
+201,Genetics concepts,AZ,No geographic data
+201,Genetics concepts,MN,No geographic data
+201,Genetics concepts,IL,No geographic data
+201,Genetics concepts,OH,No geographic data
+201,Genetics concepts,FL,No geographic data
+201,Genetics concepts,VA,No geographic data
+201,Genetics concepts,MA,No geographic data
+204,Classical genetics,AZ,No geographic data
+204,Classical genetics,CO,No geographic data
+204,Classical genetics,MN,No geographic data
+204,Classical genetics,IL,No geographic data
+204,Classical genetics,FL,No geographic data
+204,Classical genetics,NY,No geographic data
+210,Genetics techniques,AZ,No geographic data
+210,Genetics techniques,IL,No geographic data
+210,Genetics techniques,GA,No geographic data
+210,Genetics techniques,FL,No geographic data
+213,Quantitative genetics,WA,No geographic data
+213,Quantitative genetics,AZ,No geographic data
+213,Quantitative genetics,CO,No geographic data
+213,Quantitative genetics,MI,No geographic data
+213,Quantitative genetics,OH,No geographic data
+213,Quantitative genetics,GA,No geographic data
+213,Quantitative genetics,NY,No geographic data
+214,Biopiracy,CA,No geographic data
+214,Biopiracy,CO,No geographic data
+214,Biopiracy,NY,No geographic data
+214,Biopiracy,MA,No geographic data
+215,Applied genetics,AZ,No geographic data
+215,Applied genetics,CO,No geographic data
+215,Applied genetics,MN,No geographic data
+215,Applied genetics,MI,No geographic data
+217,Genetics images,WA,No geographic data
+217,Genetics images,AZ,No geographic data
+217,Genetics images,CO,No geographic data
+217,Genetics images,TX,No geographic data
+217,Genetics images,MN,No geographic data
+217,Genetics images,VA,No geographic data
+217,Genetics images,MA,No geographic data
+226,Neural engineering,CO,No geographic data
+227,Neural circuitry,WA,No geographic data
+227,Neural circuitry,AZ,No geographic data
+227,Neural circuitry,MN,No geographic data
+227,Neural circuitry,NC,No geographic data
+230,Supramolecular chemistry,WA,No geographic data
+230,Supramolecular chemistry,AZ,No geographic data
+230,Supramolecular chemistry,MN,No geographic data
+230,Supramolecular chemistry,GA,No geographic data
+230,Supramolecular chemistry,NC,No geographic data
+230,Supramolecular chemistry,NY,No geographic data
+231,Silicon photonics,MN,No geographic data
+232,Quantum electronics,AZ,No geographic data
+232,Quantum electronics,CO,No geographic data
+232,Quantum electronics,MN,No geographic data
+232,Quantum electronics,MI,No geographic data
+232,Quantum electronics,OH,No geographic data
+232,Quantum electronics,NC,No geographic data
+232,Quantum electronics,MA,No geographic data
+233,Nanomaterials,MN,No geographic data
+233,Nanomaterials,OH,No geographic data
+234,Nanomachines,AZ,No geographic data
+234,Nanomachines,MN,No geographic data
+234,Nanomachines,IL,No geographic data
+234,Nanomachines,OH,No geographic data
+236,Nanoelectronics,WA,No geographic data
+236,Nanoelectronics,AZ,No geographic data
+236,Nanoelectronics,CO,No geographic data
+236,Nanoelectronics,IL,No geographic data
+236,Nanoelectronics,MI,No geographic data
+236,Nanoelectronics,OH,No geographic data
+236,Nanoelectronics,GA,No geographic data
+236,Nanoelectronics,VA,No geographic data
+236,Nanoelectronics,NY,No geographic data
+236,Nanoelectronics,MA,No geographic data
+237,Nanomedicine,CO,No geographic data
+239,Plasmonics,AZ,No geographic data
+239,Plasmonics,MI,No geographic data
+239,Plasmonics,GA,No geographic data
+240,DNA nanotechnology,WA,No geographic data
+240,DNA nanotechnology,CO,No geographic data
+240,DNA nanotechnology,TX,No geographic data
+240,DNA nanotechnology,MN,No geographic data
+240,DNA nanotechnology,IL,No geographic data
+240,DNA nanotechnology,NC,No geographic data
+240,DNA nanotechnology,VA,No geographic data
+240,DNA nanotechnology,MA,No geographic data
+242,Molecular electronics,WA,No geographic data
+242,Molecular electronics,MN,No geographic data
+242,Molecular electronics,IL,No geographic data
+242,Molecular electronics,MI,No geographic data
+242,Molecular electronics,OH,No geographic data
+242,Molecular electronics,GA,No geographic data
+242,Molecular electronics,VA,No geographic data
+242,Molecular electronics,NY,No geographic data
+242,Molecular electronics,MA,No geographic data
+243,Molecular machines,WA,No geographic data
+243,Molecular machines,AZ,No geographic data
+243,Molecular machines,CO,No geographic data
+243,Molecular machines,MI,No geographic data
+243,Molecular machines,GA,No geographic data
+243,Molecular machines,NY,No geographic data
+256,Environmental instrumentation,CA,No geographic data
+256,Environmental instrumentation,WA,No geographic data
+256,Environmental instrumentation,MN,No geographic data
+256,Environmental instrumentation,IL,No geographic data
+256,Environmental instrumentation,OH,No geographic data
+256,Environmental instrumentation,GA,No geographic data
+256,Environmental instrumentation,FL,No geographic data
+256,Environmental instrumentation,NC,No geographic data
+256,Environmental instrumentation,VA,No geographic data
+257,Sustainable technologies,AZ,No geographic data
+257,Sustainable technologies,MN,No geographic data
+257,Sustainable technologies,NC,No geographic data
+257,Sustainable technologies,MA,No geographic data
+258,Nutrient pollution,WA,No geographic data
+258,Nutrient pollution,AZ,No geographic data
+258,Nutrient pollution,MA,No geographic data
+262,Desert fruits,CO,No geographic data
+262,Desert fruits,MN,No geographic data
+262,Desert fruits,IL,No geographic data
+262,Desert fruits,MA,No geographic data
+266,Agroecology,AZ,No geographic data
+266,Agroecology,MN,No geographic data
+266,Agroecology,GA,No geographic data
+268,Carbon farming,MN,No geographic data
+268,Carbon farming,MI,No geographic data
+273,Ecological connectivity,CO,No geographic data
+273,Ecological connectivity,TX,No geographic data
+273,Ecological connectivity,MN,No geographic data
+273,Ecological connectivity,IL,No geographic data
+273,Ecological connectivity,MI,No geographic data
+273,Ecological connectivity,GA,No geographic data
+273,Ecological connectivity,NC,No geographic data
+273,Ecological connectivity,VA,No geographic data
+275,Conservation biologists,MI,No geographic data
+275,Conservation biologists,OH,No geographic data
+275,Conservation biologists,GA,No geographic data
+275,Conservation biologists,NC,No geographic data
+275,Conservation biologists,VA,No geographic data
+275,Conservation biologists,NY,No geographic data
+275,Conservation biologists,MA,No geographic data
+276,Landscape ecology,WA,No geographic data
+276,Landscape ecology,VA,No geographic data
+282,Endemism,MN,No geographic data
+282,Endemism,IL,No geographic data
+282,Endemism,MI,No geographic data
+282,Endemism,OH,No geographic data
+282,Endemism,GA,No geographic data
+282,Endemism,MA,No geographic data
