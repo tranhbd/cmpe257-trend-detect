@@ -4,6 +4,11 @@ This script preprocesses the data collected by collection.py
 It identifies emerging topics using the Hamed-Rao modifed Mann-Kendall test
 and Sen's slope on non-overlapping 12-week windows. The first window with a
 statistically significant positive trend determines the emergence date.
+
+Note:
+This script is part of the data-preprocessing process and has already
+been executed. The results have been saved. There is no need to run it 
+again unless the process need to be updated.
 """
 import pandas as pd
 import numpy as np
@@ -22,7 +27,7 @@ GEO_PATH = RAW/"geographic_raw.csv"
 #labeling
 WINDOW_SIZE = 12
 SIGNIFICANCE_LEVEL = 0.05
-MIN_INCREASE = 0.30
+MIN_INCREASE = 0.25
 
 #columns
 TEMP_COL = ["topic_id","topic_name","date","interest"]
@@ -66,30 +71,28 @@ def find_emergence_date(topic):
     #sort to make sure weekly data is in chronological order
     topic = topic.sort_values("date").reset_index(drop=True)
     emergence_dates = []
-    #loop through each windows of weeks, 
+    #loop through each windows of 12 weeks, moving forward 4 weeks at a time 
     # then perfrom Mann-Kendall tests
-    for start in range(WINDOW_SIZE,len(topic) - WINDOW_SIZE +1,4):
-        prev_window = topic.iloc[start-WINDOW_SIZE:start]
+    for start in range(0,len(topic) - WINDOW_SIZE +1,4):
+        #prev_window = topic.iloc[start-WINDOW_SIZE:start]
         cur_window = topic.iloc[start:start+WINDOW_SIZE]
-        prev_values = prev_window["interest"].to_numpy()
+        #prev_values = prev_window["interest"].to_numpy()
         cur_values = cur_window["interest"].to_numpy()
 
-        #average interest of both windows
-        prev_average = np.mean(prev_values)
-        cur_average = np.mean(cur_values)
+        #average interest of first 4 and last 4 weeks
+        first_4 = first_4_avg = np.mean(cur_values[:4])
+        last_4 = np.mean(cur_values[-4:])   # Weeks 9–12
         
-        #if previous window is 0
-        if prev_average == 0:
-            if cur_average > 0:
-                increase = float("inf")
-            else:
-                increase = 0
+        #compare the averages
+        if first_4_avg == 0:
+            passes_increase = last_4 > 0
         else:
-            increase =(cur_average-prev_average)/prev_average
+            increase = (last_4 - first_4) / first_4
+            passes_increase = increase >= MIN_INCREASE
+
+        if not passes_increase:
+            continue
         
-        #the current window must increase by at least 25%
-        if increase < MIN_INCREASE:
-            continue  
         #skip windows with indentical interest values
         if len(set(cur_values)) == 1:
             continue

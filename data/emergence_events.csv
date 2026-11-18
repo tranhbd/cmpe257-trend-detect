@@ -1,117 +1,250 @@
 topic_id,topic_name,emergence_date
 1,Rule engines,2025-09-14
+1,Rule engines,2026-07-19
+10,AI software,2023-12-10
+10,AI software,2024-01-07
+10,AI software,2024-11-10
 10,AI software,2024-12-08
-10,AI software,2025-01-05
 10,AI software,2025-03-30
 10,AI software,2025-04-27
 10,AI software,2025-05-25
+10,AI software,2025-12-07
 10,AI software,2026-01-04
+100,Beds,2025-01-05
+100,Beds,2025-12-07
+100,Beds,2026-01-04
 100,Beds,2026-02-01
-101,Financial software,2025-01-05
+101,Financial software,2023-12-10
+101,Financial software,2024-07-21
+101,Financial software,2024-12-08
 101,Financial software,2025-03-30
 101,Financial software,2025-04-27
 101,Financial software,2025-05-25
+101,Financial software,2025-12-07
+102,Banking technology,2024-12-08
 102,Banking technology,2025-01-05
 102,Banking technology,2025-04-27
 102,Banking technology,2025-05-25
+102,Banking technology,2025-12-07
+103,Business intelligence,2024-12-08
 103,Business intelligence,2025-04-27
 103,Business intelligence,2025-05-25
 103,Business intelligence,2025-12-07
-104,E-commerce,2025-03-02
+103,Business intelligence,2026-03-29
+104,E-commerce,2023-12-10
+104,E-commerce,2024-07-21
+104,E-commerce,2024-12-08
+104,E-commerce,2025-01-05
 104,E-commerce,2025-03-30
 104,E-commerce,2025-04-27
 104,E-commerce,2025-05-25
+104,E-commerce,2025-12-07
 104,E-commerce,2026-01-04
+105,Incentives,2025-05-25
+105,Incentives,2025-10-12
 105,Incentives,2025-11-09
 105,Incentives,2025-12-07
+106,Retirement,2023-11-12
+106,Retirement,2024-12-08
+106,Retirement,2025-11-09
 107,Informal finance,2025-11-09
 107,Informal finance,2025-12-07
 107,Informal finance,2026-01-04
+108,Life insurance,2025-12-07
+109,Personal taxes,2023-11-12
+109,Personal taxes,2023-12-10
+109,Personal taxes,2024-07-21
+109,Personal taxes,2024-11-10
 109,Personal taxes,2024-12-08
+109,Personal taxes,2025-07-20
 109,Personal taxes,2025-08-17
+109,Personal taxes,2025-11-09
 109,Personal taxes,2025-12-07
 109,Personal taxes,2026-01-04
+109,Personal taxes,2026-07-19
+110,Finance websites,2024-06-23
 110,Finance websites,2025-04-27
 110,Finance websites,2025-05-25
+111,Mortgage,2025-12-07
+112,Bankruptcy,2025-05-25
+112,Bankruptcy,2025-12-07
+113,Banking,2025-05-25
+113,Banking,2025-12-07
+114,Household income,2023-12-10
+114,Household income,2024-12-08
+114,Household income,2025-05-25
+114,Household income,2025-08-17
+114,Household income,2025-09-14
 114,Household income,2025-12-07
+115,Venture capital,2025-03-30
 115,Venture capital,2025-12-07
-115,Venture capital,2026-01-04
+116,Valuation (finance),2024-07-21
 116,Valuation (finance),2025-04-27
 116,Valuation (finance),2025-05-25
 116,Valuation (finance),2025-06-22
 116,Valuation (finance),2025-07-20
+116,Valuation (finance),2025-12-07
 116,Valuation (finance),2026-01-04
+116,Valuation (finance),2026-03-29
+117,Annuities,2023-12-10
+117,Annuities,2024-12-08
+117,Annuities,2025-12-07
+118,Investment management,2023-12-10
+118,Investment management,2024-07-21
 118,Investment management,2025-04-27
 118,Investment management,2025-05-25
-118,Investment management,2026-01-04
+118,Investment management,2025-12-07
+119,Financial markets,2024-06-23
+119,Financial markets,2024-12-08
+119,Financial markets,2025-04-27
+119,Financial markets,2025-05-25
+119,Financial markets,2025-10-12
 119,Financial markets,2025-11-09
 119,Financial markets,2025-12-07
+119,Financial markets,2026-08-16
 12,Evolutionary computation,2025-11-09
 12,Evolutionary computation,2026-03-29
+121,Bank deposits,2023-12-10
+121,Bank deposits,2024-01-07
+121,Bank deposits,2024-07-21
 121,Bank deposits,2024-08-18
-121,Bank deposits,2024-09-15
+121,Bank deposits,2024-12-08
+121,Bank deposits,2025-05-25
+121,Bank deposits,2025-08-17
 121,Bank deposits,2025-09-14
+121,Bank deposits,2025-12-07
+121,Bank deposits,2026-07-19
+122,Infrastructure investment,2024-07-21
 122,Infrastructure investment,2024-08-18
+122,Infrastructure investment,2024-12-08
 122,Infrastructure investment,2025-04-27
 122,Infrastructure investment,2025-05-25
 122,Infrastructure investment,2025-12-07
+122,Infrastructure investment,2026-03-29
 123,Investment clubs,2024-07-21
-123,Investment clubs,2024-08-18
 123,Investment clubs,2025-04-27
 123,Investment clubs,2025-05-25
+123,Investment clubs,2025-10-12
 123,Investment clubs,2025-11-09
 123,Investment clubs,2025-12-07
+124,Investors,2023-12-10
+124,Investors,2024-12-08
 124,Investors,2025-05-25
+124,Investors,2025-08-17
 124,Investors,2025-12-07
 124,Investors,2026-01-04
+124,Investors,2026-03-29
+125,Investment banking,2023-12-10
+125,Investment banking,2024-12-08
+125,Investment banking,2025-05-25
 126,Ethical investment,2024-07-21
+126,Ethical investment,2024-12-08
+126,Ethical investment,2025-04-27
+126,Ethical investment,2025-12-07
+127,Capital (economics),2025-05-25
 127,Capital (economics),2025-06-22
+127,Capital (economics),2025-11-09
 127,Capital (economics),2025-12-07
+128,Capital budgeting,2023-12-10
+128,Capital budgeting,2024-01-07
+128,Capital budgeting,2024-02-04
 128,Capital budgeting,2024-08-18
 128,Capital budgeting,2024-09-15
+128,Capital budgeting,2025-08-17
 128,Capital budgeting,2025-09-14
+128,Capital budgeting,2025-12-07
+128,Capital budgeting,2026-08-16
+129,Investment indicators,2024-02-04
 129,Investment indicators,2025-03-30
 129,Investment indicators,2025-04-27
 129,Investment indicators,2025-05-25
 129,Investment indicators,2025-12-07
+13,Fuzzy logic,2024-09-15
+13,Fuzzy logic,2025-04-27
+13,Fuzzy logic,2025-05-25
+13,Fuzzy logic,2025-09-14
 13,Fuzzy logic,2025-10-12
 13,Fuzzy logic,2025-12-07
+13,Fuzzy logic,2026-03-01
 130,Disinvestment,2025-02-02
 130,Disinvestment,2025-11-09
+131,Private equity,2023-12-10
+131,Private equity,2024-12-08
+131,Private equity,2025-03-30
+131,Private equity,2025-04-27
 131,Private equity,2025-05-25
+131,Private equity,2025-12-07
 131,Private equity,2026-01-04
+132,Commodity markets,2023-12-10
+132,Commodity markets,2024-07-21
 132,Commodity markets,2024-08-18
+132,Commodity markets,2025-05-25
 132,Commodity markets,2025-09-14
 132,Commodity markets,2025-11-09
 132,Commodity markets,2025-12-07
 132,Commodity markets,2026-01-04
-133,Securities (finance),2024-09-15
+133,Securities (finance),2023-12-10
+133,Securities (finance),2025-05-25
 134,Futures markets,2024-05-26
+134,Futures markets,2024-09-15
 134,Futures markets,2025-01-05
 134,Futures markets,2025-02-02
+134,Futures markets,2025-05-25
+134,Futures markets,2025-12-07
+134,Futures markets,2026-01-04
+134,Futures markets,2026-04-26
+135,Market trends,2023-12-10
+135,Market trends,2024-07-21
 135,Market trends,2024-08-18
-135,Market trends,2024-09-15
+135,Market trends,2024-12-08
 135,Market trends,2025-04-27
 135,Market trends,2025-05-25
+135,Market trends,2025-10-12
 135,Market trends,2025-11-09
 135,Market trends,2025-12-07
 135,Market trends,2026-01-04
+136,Yield (finance),2023-12-10
+136,Yield (finance),2024-07-21
+136,Yield (finance),2024-08-18
+136,Yield (finance),2025-05-25
+136,Yield (finance),2025-08-17
 136,Yield (finance),2025-09-14
-136,Yield (finance),2025-12-07
 136,Yield (finance),2026-01-04
+137,Market data,2023-12-10
+137,Market data,2024-07-21
+137,Market data,2024-12-08
 137,Market data,2025-04-27
 137,Market data,2025-05-25
 137,Market data,2025-12-07
 137,Market data,2026-01-04
+137,Market data,2026-03-29
+139,Bond market,2023-12-10
+139,Bond market,2024-01-07
+139,Bond market,2024-07-21
 139,Bond market,2024-08-18
+139,Bond market,2024-12-08
 139,Bond market,2025-02-02
+139,Bond market,2025-08-17
+139,Bond market,2025-09-14
+139,Bond market,2025-12-07
 139,Bond market,2026-01-04
+14,AI supercomputers,2026-03-29
+140,Fixed income,2023-12-10
+140,Fixed income,2024-07-21
+140,Fixed income,2024-12-08
+140,Fixed income,2025-05-25
+140,Fixed income,2025-12-07
 140,Fixed income,2026-01-04
+141,Algorithmic trading,2025-01-05
 141,Algorithmic trading,2025-04-27
+141,Algorithmic trading,2025-09-14
 141,Algorithmic trading,2025-10-12
-141,Algorithmic trading,2025-12-07
 141,Algorithmic trading,2026-01-04
+143,Stock market,2024-05-26
 143,Stock market,2025-02-02
+143,Stock market,2025-05-25
+143,Stock market,2026-01-04
+143,Stock market,2026-08-16
 144,Prediction markets,2024-04-28
 144,Prediction markets,2024-08-18
 144,Prediction markets,2025-04-27
@@ -121,67 +254,137 @@ topic_id,topic_name,emergence_date
 144,Prediction markets,2025-11-09
 144,Prediction markets,2025-12-07
 144,Prediction markets,2026-01-04
-145,Arbitrage,2025-11-09
+144,Prediction markets,2026-08-16
+145,Arbitrage,2025-05-25
+145,Arbitrage,2025-10-12
 145,Arbitrage,2025-12-07
 145,Arbitrage,2026-01-04
+147,Financial regulation,2023-12-10
+147,Financial regulation,2024-07-21
+147,Financial regulation,2024-12-08
+147,Financial regulation,2025-04-27
 147,Financial regulation,2025-05-25
 147,Financial regulation,2025-09-14
 147,Financial regulation,2025-12-07
+148,Money markets,2023-12-10
+148,Money markets,2024-07-21
+148,Money markets,2025-07-20
 148,Money markets,2025-08-17
-148,Money markets,2025-09-14
+148,Money markets,2025-12-07
+149,Marketing,2023-12-10
+149,Marketing,2024-12-08
+149,Marketing,2025-12-07
 149,Marketing,2026-01-04
+15,Generative AI,2023-12-10
+15,Generative AI,2024-12-08
+15,Generative AI,2025-03-30
+15,Generative AI,2025-04-27
 15,Generative AI,2025-05-25
+15,Generative AI,2025-09-14
 15,Generative AI,2025-11-09
 15,Generative AI,2025-12-07
 15,Generative AI,2026-01-04
-15,Generative AI,2026-02-01
-150,Market risk,2024-02-04
+15,Generative AI,2026-03-29
+150,Market risk,2023-12-10
+150,Market risk,2024-01-07
+150,Market risk,2024-07-21
 150,Market risk,2024-08-18
-150,Market risk,2024-09-15
+150,Market risk,2024-12-08
+150,Market risk,2025-01-05
 150,Market risk,2025-05-25
+150,Market risk,2025-08-17
 150,Market risk,2025-09-14
 150,Market risk,2025-12-07
 150,Market risk,2026-01-04
+150,Market risk,2026-03-29
+150,Market risk,2026-08-16
 151,Internet aesthetics,2025-12-07
 151,Internet aesthetics,2026-03-01
 151,Internet aesthetics,2026-03-29
+152,Social audio,2023-12-10
+152,Social audio,2024-07-21
+152,Social audio,2024-12-08
 152,Social audio,2025-04-27
 152,Social audio,2025-05-25
 152,Social audio,2025-09-14
 152,Social audio,2025-10-12
+152,Social audio,2026-03-29
+153,Viral marketing,2024-07-21
 153,Viral marketing,2024-08-18
 153,Viral marketing,2024-09-15
+153,Viral marketing,2025-01-05
 153,Viral marketing,2025-04-27
 153,Viral marketing,2025-05-25
+153,Viral marketing,2025-09-14
+153,Viral marketing,2025-10-12
 153,Viral marketing,2025-11-09
 153,Viral marketing,2025-12-07
+153,Viral marketing,2026-03-29
+155,Social software,2023-12-10
+155,Social software,2024-06-23
+155,Social software,2024-07-21
+155,Social software,2024-12-08
 155,Social software,2025-01-05
 155,Social software,2025-04-27
 155,Social software,2025-05-25
+155,Social software,2025-12-07
+156,Social search,2023-12-10
+156,Social search,2024-06-23
+156,Social search,2024-07-21
+156,Social search,2024-12-08
+156,Social search,2025-05-25
+156,Social search,2025-08-17
 156,Social search,2025-12-07
+157,Hashtags,2025-04-27
 157,Hashtags,2025-05-25
+157,Hashtags,2025-10-12
+159,Electronic music,2024-09-15
 159,Electronic music,2025-05-25
+159,Electronic music,2025-09-14
+159,Electronic music,2025-10-12
 159,Electronic music,2025-11-09
 159,Electronic music,2025-12-07
+161,Music software,2025-03-30
 161,Music software,2025-04-27
 161,Music software,2025-05-25
-163,Music websites,2025-08-17
+161,Music software,2025-12-07
+162,Musical instruments,2024-07-21
+162,Musical instruments,2025-12-07
+163,Music websites,2023-12-10
+163,Music websites,2024-07-21
+163,Music websites,2025-05-25
+163,Music websites,2026-07-19
+165,Internet art,2024-06-23
+165,Internet art,2024-07-21
 165,Internet art,2025-05-25
+165,Internet art,2025-09-14
 165,Internet art,2025-10-12
 165,Internet art,2025-11-09
 165,Internet art,2025-12-07
+165,Internet art,2026-03-29
 166,Algorithmic art,2025-12-07
+166,Algorithmic art,2026-03-01
+167,Internet music,2023-12-10
+167,Internet music,2024-07-21
+167,Internet music,2025-04-27
 167,Internet music,2025-05-25
-167,Internet music,2025-11-09
+167,Internet music,2025-10-12
 167,Internet music,2025-12-07
 167,Internet music,2026-01-04
 167,Internet music,2026-02-01
 167,Internet music,2026-03-01
+168,Digital artists,2023-12-10
+168,Digital artists,2024-06-23
 168,Digital artists,2024-09-15
+168,Digital artists,2025-04-27
 168,Digital artists,2025-05-25
 168,Digital artists,2025-09-14
 168,Digital artists,2025-10-12
 168,Digital artists,2025-12-07
+169,Live coding,2023-11-12
+169,Live coding,2023-12-10
+169,Live coding,2024-12-08
+169,Live coding,2025-03-30
 169,Live coding,2025-04-27
 169,Live coding,2025-05-25
 169,Live coding,2025-10-12
@@ -191,41 +394,110 @@ topic_id,topic_name,emergence_date
 169,Live coding,2026-04-26
 170,Digital artworks,2025-12-07
 171,Xerox art,2026-03-01
+172,Interactive art,2025-05-25
+172,Interactive art,2025-09-14
+172,Interactive art,2025-10-12
 172,Interactive art,2025-11-09
 172,Interactive art,2025-12-07
+172,Interactive art,2026-03-01
+174,AI art,2025-12-07
 174,AI art,2026-01-04
-174,AI art,2026-02-01
 177,Genome projects,2026-01-04
+178,Molecular genetics,2024-06-23
+178,Molecular genetics,2024-07-21
+178,Molecular genetics,2024-12-08
+178,Molecular genetics,2025-05-25
+178,Molecular genetics,2025-06-22
 178,Molecular genetics,2025-12-07
-179,Synthetic biology,2024-09-15
+179,Synthetic biology,2024-08-18
 179,Synthetic biology,2025-05-25
+179,Synthetic biology,2025-08-17
 179,Synthetic biology,2025-09-14
 179,Synthetic biology,2025-12-07
 179,Synthetic biology,2026-01-04
 179,Synthetic biology,2026-03-29
+180,Translational medicine,2023-12-10
 180,Translational medicine,2025-12-07
+180,Translational medicine,2026-03-29
+180,Translational medicine,2026-04-26
+181,Bioinformatics,2024-12-08
+181,Bioinformatics,2025-05-25
 181,Bioinformatics,2025-12-07
+183,Biotechnology products,2024-12-08
 183,Biotechnology products,2025-05-25
+183,Biotechnology products,2026-03-29
 184,Artificial organs,2024-07-21
+184,Artificial organs,2024-12-08
+184,Artificial organs,2025-06-22
+184,Artificial organs,2025-07-20
+184,Artificial organs,2025-12-07
+184,Artificial organs,2026-07-19
+187,Cloning,2023-12-10
+187,Cloning,2024-07-21
+187,Cloning,2024-08-18
+187,Cloning,2024-12-08
+187,Cloning,2025-05-25
+187,Cloning,2025-08-17
+187,Cloning,2025-09-14
+187,Cloning,2025-12-07
 187,Cloning,2026-01-04
+188,Cell therapies,2023-12-10
+188,Cell therapies,2024-07-21
 188,Cell therapies,2024-08-18
+188,Cell therapies,2024-12-08
+188,Cell therapies,2025-05-25
+188,Cell therapies,2025-12-07
 188,Cell therapies,2026-01-04
 19,BEAM robotics,2026-01-04
+190,Biological warfare,2023-12-10
+190,Biological warfare,2024-01-07
+190,Biological warfare,2024-06-23
+190,Biological warfare,2024-07-21
+190,Biological warfare,2024-12-08
 190,Biological warfare,2025-12-07
+191,Vaccination,2024-12-08
+191,Vaccination,2025-05-25
 191,Vaccination,2025-12-07
+192,Medical technology,2023-12-10
+192,Medical technology,2024-06-23
+192,Medical technology,2024-07-21
+192,Medical technology,2024-12-08
+192,Medical technology,2025-04-27
 192,Medical technology,2025-05-25
 192,Medical technology,2025-12-07
+192,Medical technology,2026-03-29
+193,Specialty drugs,2025-05-25
+193,Specialty drugs,2025-06-22
 193,Specialty drugs,2025-09-14
-195,DNA sequencing,2024-08-18
+193,Specialty drugs,2026-08-16
+195,DNA sequencing,2023-12-10
+195,DNA sequencing,2024-06-23
+195,DNA sequencing,2024-07-21
 195,DNA sequencing,2024-09-15
+195,DNA sequencing,2024-12-08
+195,DNA sequencing,2025-01-05
+195,DNA sequencing,2025-06-22
+195,DNA sequencing,2025-09-14
+195,DNA sequencing,2025-12-07
+197,Space programs,2023-12-10
+197,Space programs,2024-01-07
+197,Space programs,2024-07-21
+197,Space programs,2024-12-08
 197,Space programs,2025-01-05
+197,Space programs,2025-05-25
 197,Space programs,2025-11-09
 197,Space programs,2025-12-07
+197,Space programs,2026-07-19
+199,Space missions,2023-12-10
 199,Space missions,2024-07-21
+199,Space missions,2024-12-08
 199,Space missions,2025-01-05
-199,Space missions,2025-08-17
+199,Space missions,2025-06-22
+199,Space missions,2025-07-20
 199,Space missions,2025-11-09
 199,Space missions,2025-12-07
+199,Space missions,2026-07-19
+199,Space missions,2026-08-16
 2,Affective computing,2025-09-14
 2,Affective computing,2025-12-07
 20,Robotics hardware,2025-04-27
@@ -237,22 +509,47 @@ topic_id,topic_name,emergence_date
 20,Robotics hardware,2026-01-04
 20,Robotics hardware,2026-02-01
 20,Robotics hardware,2026-03-29
+200,Geneticists,2023-12-10
+200,Geneticists,2024-07-21
+200,Geneticists,2024-12-08
+200,Geneticists,2025-07-20
+200,Geneticists,2025-12-07
+201,Genetics concepts,2023-11-12
 201,Genetics concepts,2024-02-04
 202,Nucleobases,2025-12-07
+203,Genes,2023-12-10
+203,Genes,2024-07-21
 203,Genes,2024-08-18
-203,Genes,2024-09-15
+203,Genes,2024-12-08
+203,Genes,2025-06-22
+203,Genes,2025-07-20
 203,Genes,2025-08-17
 203,Genes,2025-09-14
+203,Genes,2025-12-07
+203,Genes,2026-07-19
 204,Classical genetics,2025-12-07
 204,Classical genetics,2026-01-04
+205,Genomics,2023-12-10
+205,Genomics,2024-12-08
+205,Genomics,2025-05-25
+205,Genomics,2025-08-17
+205,Genomics,2025-09-14
 205,Genomics,2025-12-07
 205,Genomics,2026-01-04
+206,Chimerism,2024-01-07
 206,Chimerism,2024-03-31
+206,Chimerism,2025-06-22
 206,Chimerism,2025-07-20
+206,Chimerism,2026-04-26
 206,Chimerism,2026-05-24
+208,Nucleotides,2023-12-10
 208,Nucleotides,2024-07-21
+208,Nucleotides,2024-12-08
+208,Nucleotides,2025-06-22
 208,Nucleotides,2025-07-20
 208,Nucleotides,2025-08-17
+208,Nucleotides,2025-12-07
+208,Nucleotides,2026-07-19
 21,Medical robotics,2025-04-27
 21,Medical robotics,2025-05-25
 21,Medical robotics,2025-09-14
@@ -260,32 +557,79 @@ topic_id,topic_name,emergence_date
 21,Medical robotics,2026-02-01
 21,Medical robotics,2026-03-29
 210,Genetics techniques,2025-12-07
+211,Mutation,2023-12-10
+211,Mutation,2024-07-21
 211,Mutation,2024-08-18
 211,Mutation,2024-09-15
+211,Mutation,2024-12-08
+211,Mutation,2025-05-25
+211,Mutation,2025-12-07
+212,Epigenetics,2024-07-21
+212,Epigenetics,2024-12-08
+212,Epigenetics,2025-06-22
+212,Epigenetics,2025-07-20
+212,Epigenetics,2025-12-07
+212,Epigenetics,2026-07-19
 213,Quantitative genetics,2024-07-21
 213,Quantitative genetics,2025-12-07
+215,Applied genetics,2023-12-10
 215,Applied genetics,2025-12-07
+217,Genetics images,2025-08-17
 217,Genetics images,2025-09-14
+217,Genetics images,2026-03-29
+218,Chromosomes,2024-06-23
 218,Chromosomes,2024-08-18
 218,Chromosomes,2024-09-15
+218,Chromosomes,2025-07-20
 218,Chromosomes,2025-08-17
 218,Chromosomes,2025-09-14
+218,Chromosomes,2026-07-19
 218,Chromosomes,2026-08-16
+219,Intelligence,2023-12-10
+219,Intelligence,2024-07-21
 219,Intelligence,2024-08-18
+219,Intelligence,2025-05-25
 219,Intelligence,2025-12-07
+22,Robotics software,2023-12-10
+22,Robotics software,2024-07-21
+22,Robotics software,2024-11-10
+22,Robotics software,2024-12-08
 22,Robotics software,2025-04-27
 22,Robotics software,2025-05-25
+22,Robotics software,2025-12-07
 22,Robotics software,2026-01-04
 22,Robotics software,2026-02-01
+220,Proprioception,2023-12-10
+220,Proprioception,2024-08-18
+220,Proprioception,2025-08-17
+220,Proprioception,2025-12-07
+222,Neurodiversity,2023-12-10
+222,Neurodiversity,2024-01-07
 222,Neurodiversity,2024-02-04
+222,Neurodiversity,2024-12-08
+222,Neurodiversity,2025-01-05
+222,Neurodiversity,2025-12-07
 222,Neurodiversity,2026-01-04
+223,Neuroimaging,2023-12-10
+223,Neuroimaging,2024-07-21
 223,Neuroimaging,2025-05-25
+223,Neuroimaging,2025-08-17
 223,Neuroimaging,2025-09-14
 223,Neuroimaging,2025-10-12
 223,Neuroimaging,2025-12-07
 223,Neuroimaging,2026-01-04
+224,Nervous system,2023-12-10
+224,Nervous system,2024-07-21
+224,Nervous system,2024-12-08
+224,Nervous system,2025-06-22
+224,Nervous system,2025-07-20
 224,Nervous system,2025-08-17
+224,Nervous system,2025-12-07
+224,Nervous system,2026-07-19
+226,Neural engineering,2024-07-21
+226,Neural engineering,2025-04-27
 226,Neural engineering,2025-05-25
+226,Neural engineering,2025-08-17
 226,Neural engineering,2025-09-14
 226,Neural engineering,2025-10-12
 226,Neural engineering,2025-11-09
@@ -294,7 +638,13 @@ topic_id,topic_name,emergence_date
 226,Neural engineering,2026-02-01
 226,Neural engineering,2026-03-29
 227,Neural circuitry,2025-12-07
+228,Cognition,2023-12-10
+228,Cognition,2024-07-21
 228,Cognition,2024-08-18
+228,Cognition,2024-12-08
+228,Cognition,2025-05-25
+228,Cognition,2025-08-17
+228,Cognition,2025-09-14
 228,Cognition,2025-12-07
 228,Cognition,2026-01-04
 23,Industrial robotics,2025-05-25
@@ -304,7 +654,9 @@ topic_id,topic_name,emergence_date
 23,Industrial robotics,2026-02-01
 23,Industrial robotics,2026-03-29
 230,Supramolecular chemistry,2025-12-07
+231,Silicon photonics,2025-04-27
 231,Silicon photonics,2025-05-25
+231,Silicon photonics,2025-09-14
 231,Silicon photonics,2025-10-12
 231,Silicon photonics,2025-11-09
 231,Silicon photonics,2026-01-04
@@ -314,13 +666,23 @@ topic_id,topic_name,emergence_date
 232,Quantum electronics,2025-09-14
 232,Quantum electronics,2026-01-04
 232,Quantum electronics,2026-02-01
+233,Nanomaterials,2024-02-04
+233,Nanomaterials,2024-07-21
+233,Nanomaterials,2024-12-08
+233,Nanomaterials,2025-04-27
 233,Nanomaterials,2025-05-25
 233,Nanomaterials,2025-09-14
 233,Nanomaterials,2025-11-09
 233,Nanomaterials,2025-12-07
+233,Nanomaterials,2026-03-29
+234,Nanomachines,2024-10-13
+234,Nanomachines,2024-11-10
+234,Nanomachines,2025-12-07
+237,Nanomedicine,2025-06-22
 237,Nanomedicine,2025-09-14
 237,Nanomedicine,2025-10-12
 237,Nanomedicine,2025-12-07
+237,Nanomedicine,2026-03-29
 239,Plasmonics,2025-12-07
 24,Robotics projects,2025-05-25
 24,Robotics projects,2025-09-14
@@ -329,101 +691,200 @@ topic_id,topic_name,emergence_date
 242,Molecular electronics,2026-02-01
 243,Molecular machines,2025-11-09
 243,Molecular machines,2025-12-07
+243,Molecular machines,2026-03-29
+246,Wind power,2023-12-10
+246,Wind power,2024-07-21
 246,Wind power,2024-08-18
+246,Wind power,2025-08-17
 246,Wind power,2025-09-14
 246,Wind power,2025-12-07
 246,Wind power,2026-01-04
-246,Wind power,2026-02-01
+247,Anaerobic digestion,2023-12-10
 247,Anaerobic digestion,2024-08-18
 247,Anaerobic digestion,2024-09-15
+247,Anaerobic digestion,2025-05-25
+247,Anaerobic digestion,2025-08-17
 247,Anaerobic digestion,2025-09-14
 247,Anaerobic digestion,2025-10-12
 247,Anaerobic digestion,2026-01-04
+248,Solar energy,2023-12-10
+248,Solar energy,2024-07-21
+248,Solar energy,2024-12-08
+248,Solar energy,2025-12-07
 248,Solar energy,2026-01-04
+249,Geothermal energy,2023-12-10
+249,Geothermal energy,2024-07-21
 249,Geothermal energy,2024-08-18
 249,Geothermal energy,2024-09-15
+249,Geothermal energy,2025-06-22
+249,Geothermal energy,2025-07-20
 249,Geothermal energy,2025-08-17
 249,Geothermal energy,2025-09-14
+249,Geothermal energy,2025-12-07
 249,Geothermal energy,2026-01-04
-25,Robotics engineering,2025-08-17
+249,Geothermal energy,2026-07-19
+25,Robotics engineering,2024-06-23
+25,Robotics engineering,2025-05-25
+25,Robotics engineering,2025-06-22
 25,Robotics engineering,2025-09-14
+250,Renewable electricity,2023-12-10
+250,Renewable electricity,2024-07-21
 250,Renewable electricity,2024-08-18
 250,Renewable electricity,2025-01-05
+250,Renewable electricity,2025-08-17
 250,Renewable electricity,2025-09-14
 250,Renewable electricity,2025-12-07
+250,Renewable electricity,2026-07-19
+251,Bioenergy,2023-12-10
+251,Bioenergy,2024-06-23
+251,Bioenergy,2025-08-17
 251,Bioenergy,2025-09-14
 251,Bioenergy,2025-12-07
+252,Water power,2025-05-25
+252,Water power,2025-09-14
 252,Water power,2025-12-07
 252,Water power,2026-02-01
 252,Water power,2026-03-01
 253,Greenhouse gases,2024-02-04
+253,Greenhouse gases,2024-07-21
 253,Greenhouse gases,2024-08-18
+253,Greenhouse gases,2025-01-05
 253,Greenhouse gases,2025-02-02
+253,Greenhouse gases,2025-06-22
+253,Greenhouse gases,2025-07-20
 253,Greenhouse gases,2025-08-17
-253,Greenhouse gases,2025-09-14
 253,Greenhouse gases,2026-03-01
+253,Greenhouse gases,2026-07-19
+254,Environmental engineering,2024-06-23
+254,Environmental engineering,2025-05-25
+254,Environmental engineering,2025-11-09
+254,Environmental engineering,2025-12-07
+255,Environmental testing,2023-12-10
+255,Environmental testing,2025-05-25
+255,Environmental testing,2025-12-07
+257,Sustainable technologies,2023-12-10
 257,Sustainable technologies,2024-08-18
+257,Sustainable technologies,2025-05-25
 257,Sustainable technologies,2025-12-07
+258,Nutrient pollution,2023-12-10
+258,Nutrient pollution,2024-01-07
+258,Nutrient pollution,2024-06-23
+258,Nutrient pollution,2024-07-21
 258,Nutrient pollution,2024-08-18
+258,Nutrient pollution,2025-01-05
 258,Nutrient pollution,2025-02-02
+258,Nutrient pollution,2025-06-22
+258,Nutrient pollution,2025-07-20
 258,Nutrient pollution,2025-08-17
 258,Nutrient pollution,2026-01-04
+258,Nutrient pollution,2026-07-19
+26,Physical computing,2023-12-10
+26,Physical computing,2024-06-23
 26,Physical computing,2024-07-21
 26,Physical computing,2025-07-20
+26,Physical computing,2025-12-07
 26,Physical computing,2026-01-04
 26,Physical computing,2026-03-29
+260,Organic farming,2023-12-10
+260,Organic farming,2024-06-23
+260,Organic farming,2024-07-21
 260,Organic farming,2024-08-18
 260,Organic farming,2024-09-15
+260,Organic farming,2024-12-08
+260,Organic farming,2025-08-17
 260,Organic farming,2025-11-09
 260,Organic farming,2025-12-07
+262,Desert fruits,2024-10-13
+262,Desert fruits,2025-01-05
 262,Desert fruits,2025-11-09
 262,Desert fruits,2025-12-07
-264,Permaculture,2025-01-05
+264,Permaculture,2023-12-10
+264,Permaculture,2024-12-08
 264,Permaculture,2025-12-07
+265,Urban agriculture,2023-12-10
+265,Urban agriculture,2024-06-23
+265,Urban agriculture,2024-07-21
 265,Urban agriculture,2024-08-18
+265,Urban agriculture,2024-12-08
 265,Urban agriculture,2025-01-05
+265,Urban agriculture,2025-06-22
+265,Urban agriculture,2025-07-20
 265,Urban agriculture,2025-08-17
 265,Urban agriculture,2025-09-14
 265,Urban agriculture,2025-12-07
+265,Urban agriculture,2026-07-19
+265,Urban agriculture,2026-08-16
+266,Agroecology,2024-12-08
+266,Agroecology,2025-08-17
+266,Agroecology,2025-09-14
 266,Agroecology,2025-12-07
 266,Agroecology,2026-03-01
+267,Composting,2023-12-10
 267,Composting,2024-02-04
+267,Composting,2025-01-05
 267,Composting,2025-02-02
 267,Composting,2025-11-09
 267,Composting,2025-12-07
+267,Composting,2026-03-29
+268,Carbon farming,2024-06-23
+268,Carbon farming,2024-07-21
 268,Carbon farming,2024-09-15
 268,Carbon farming,2025-02-02
 268,Carbon farming,2025-03-02
+268,Carbon farming,2025-06-22
 268,Carbon farming,2025-08-17
 268,Carbon farming,2025-09-14
 268,Carbon farming,2025-12-07
+268,Carbon farming,2026-07-19
 27,Robotics events,2025-04-27
 27,Robotics events,2025-05-25
 27,Robotics events,2025-09-14
 27,Robotics events,2025-10-12
-27,Robotics events,2025-11-09
-27,Robotics events,2025-12-07
 27,Robotics events,2026-01-04
+270,Habitat,2023-12-10
+270,Habitat,2024-07-21
+270,Habitat,2024-12-08
+270,Habitat,2025-12-07
 270,Habitat,2026-01-04
+271,Ecological restoration,2024-07-21
+271,Ecological restoration,2024-12-08
 271,Ecological restoration,2025-08-17
 271,Ecological restoration,2025-11-09
 271,Ecological restoration,2025-12-07
+272,Introduced species,2024-07-21
 272,Introduced species,2024-08-18
+272,Introduced species,2025-01-05
 272,Introduced species,2025-02-02
+272,Introduced species,2025-06-22
+272,Introduced species,2025-07-20
 272,Introduced species,2025-08-17
+272,Introduced species,2025-12-07
+272,Introduced species,2026-07-19
 272,Introduced species,2026-08-16
 273,Ecological connectivity,2025-12-07
-274,Reforestation,2024-03-03
+274,Reforestation,2024-07-21
 274,Reforestation,2024-08-18
+274,Reforestation,2025-01-05
+274,Reforestation,2025-02-02
+274,Reforestation,2025-07-20
+274,Reforestation,2025-08-17
+274,Reforestation,2025-12-07
+275,Conservation biologists,2024-12-08
+275,Conservation biologists,2025-07-20
 275,Conservation biologists,2026-07-19
+276,Landscape ecology,2024-06-23
 276,Landscape ecology,2025-07-20
 276,Landscape ecology,2025-12-07
+277,De-extinction,2024-01-07
 277,De-extinction,2024-08-18
 277,De-extinction,2025-02-02
 277,De-extinction,2025-08-17
+277,De-extinction,2025-12-07
 277,De-extinction,2026-01-04
 277,De-extinction,2026-08-16
+278,Rewilding,2024-01-07
 278,Rewilding,2024-02-04
+278,Rewilding,2024-12-08
 278,Rewilding,2025-08-17
 278,Rewilding,2025-09-14
 28,Cloud robotics,2025-04-27
@@ -431,16 +892,25 @@ topic_id,topic_name,emergence_date
 28,Cloud robotics,2026-01-04
 28,Cloud robotics,2026-02-01
 28,Cloud robotics,2026-03-29
-281,Biodiversity,2024-02-04
 281,Biodiversity,2024-03-03
+281,Biodiversity,2024-06-23
+281,Biodiversity,2024-07-21
+281,Biodiversity,2025-01-05
+281,Biodiversity,2025-06-22
+281,Biodiversity,2025-07-20
 281,Biodiversity,2025-08-17
+281,Biodiversity,2025-12-07
+281,Biodiversity,2026-07-19
 282,Endemism,2025-12-07
 3,15.ai,2024-04-28
 30,Military robotics,2025-04-27
 30,Military robotics,2025-09-14
 30,Military robotics,2025-10-12
 30,Military robotics,2025-11-09
+31,Self-driving cars,2023-12-10
+31,Self-driving cars,2024-07-21
 32,Robotic manipulation,2025-06-22
+32,Robotic manipulation,2025-10-12
 32,Robotic manipulation,2025-11-09
 32,Robotic manipulation,2025-12-07
 32,Robotic manipulation,2026-01-04
@@ -449,65 +919,113 @@ topic_id,topic_name,emergence_date
 33,Robotic art,2026-01-04
 33,Robotic art,2026-02-01
 33,Robotic art,2026-03-01
+34,Cyborgs,2023-12-10
+34,Cyborgs,2024-01-07
 34,Cyborgs,2025-06-22
 34,Cyborgs,2025-12-07
+35,Robots,2024-07-21
 35,Robots,2024-08-18
+35,Robots,2025-03-02
 36,Containerization software,2025-12-07
-37,Cloud storage,2025-11-09
+37,Cloud storage,2025-03-30
 37,Cloud storage,2025-12-07
-37,Cloud storage,2026-03-29
+37,Cloud storage,2026-03-01
+39,Cloud clients,2023-12-10
+39,Cloud clients,2024-01-07
+39,Cloud clients,2024-07-21
+39,Cloud clients,2024-12-08
 39,Cloud clients,2025-04-27
 39,Cloud clients,2025-05-25
+39,Cloud clients,2025-12-07
 39,Cloud clients,2026-01-04
+39,Cloud clients,2026-08-16
 4,AI safety,2024-03-03
 4,AI safety,2024-12-08
 4,AI safety,2025-04-27
 4,AI safety,2025-05-25
+4,AI safety,2025-09-14
 4,AI safety,2025-10-12
-4,AI safety,2025-11-09
 4,AI safety,2025-12-07
 4,AI safety,2026-01-04
+4,AI safety,2026-03-29
+40,Serverless computing,2024-12-08
 40,Serverless computing,2025-10-12
 40,Serverless computing,2025-11-09
 40,Serverless computing,2025-12-07
+40,Serverless computing,2026-03-29
+41,Cloud infrastructure,2023-12-10
+41,Cloud infrastructure,2024-12-08
 41,Cloud infrastructure,2025-01-05
 41,Cloud infrastructure,2025-03-30
 41,Cloud infrastructure,2025-05-25
+41,Cloud infrastructure,2025-12-07
 41,Cloud infrastructure,2026-01-04
-41,Cloud infrastructure,2026-03-01
 41,Cloud infrastructure,2026-03-29
+42,Cloud gaming,2024-06-23
 42,Cloud gaming,2024-09-15
 42,Cloud gaming,2024-10-13
+42,Cloud gaming,2025-09-14
 42,Cloud gaming,2025-10-12
 43,Cloud platforms,2024-12-08
 43,Cloud platforms,2025-01-05
 43,Cloud platforms,2025-03-30
 43,Cloud platforms,2025-04-27
 43,Cloud platforms,2025-05-25
+43,Cloud platforms,2025-12-07
+43,Cloud platforms,2026-08-16
+44,Cloud databases,2023-12-10
 44,Cloud databases,2024-08-18
+44,Cloud databases,2024-12-08
 44,Cloud databases,2025-03-30
 44,Cloud databases,2025-04-27
+44,Cloud databases,2025-12-07
+44,Cloud databases,2026-01-04
+45,Cloud standards,2024-08-18
+45,Cloud standards,2024-12-08
 45,Cloud standards,2025-05-25
 45,Cloud standards,2025-12-07
 45,Cloud standards,2026-01-04
+45,Cloud standards,2026-03-29
+46,Cloud applications,2023-12-10
+46,Cloud applications,2024-07-21
+46,Cloud applications,2024-12-08
+46,Cloud applications,2025-01-05
 46,Cloud applications,2025-05-25
+46,Cloud applications,2025-12-07
 46,Cloud applications,2026-01-04
-47,Nextcloud,2025-11-09
+46,Cloud applications,2026-03-29
+47,Nextcloud,2025-04-27
+47,Nextcloud,2025-09-14
+47,Nextcloud,2025-10-12
 49,Virtual avatars,2025-05-25
+49,Virtual avatars,2025-10-12
 49,Virtual avatars,2025-11-09
+5,Argument technology,2023-12-10
+5,Argument technology,2024-01-07
+5,Argument technology,2024-07-21
 5,Argument technology,2024-08-18
+5,Argument technology,2025-07-20
 5,Argument technology,2025-08-17
-5,Argument technology,2025-09-14
+5,Argument technology,2025-12-07
+5,Argument technology,2026-07-19
 50,Haptic technology,2026-01-04
 50,Haptic technology,2026-02-01
+52,Metaverse,2025-05-25
+52,Metaverse,2025-09-14
+52,Metaverse,2025-10-12
 52,Metaverse,2025-11-09
 52,Metaverse,2025-12-07
+53,Spatial computing,2023-11-12
+53,Spatial computing,2024-07-21
 53,Spatial computing,2025-03-30
 53,Spatial computing,2025-04-27
 53,Spatial computing,2025-05-25
+53,Spatial computing,2025-09-14
+53,Spatial computing,2025-10-12
 53,Spatial computing,2025-12-07
 53,Spatial computing,2026-01-04
 53,Spatial computing,2026-02-01
+54,Virtual pets,2025-10-12
 54,Virtual pets,2025-11-09
 54,Virtual pets,2025-12-07
 55,Virtual economy,2025-02-02
@@ -515,116 +1033,255 @@ topic_id,topic_name,emergence_date
 55,Virtual economy,2025-05-25
 55,Virtual economy,2025-09-14
 55,Virtual economy,2025-10-12
-55,Virtual economy,2025-11-09
 55,Virtual economy,2025-12-07
+56,Holography,2024-12-08
 56,Holography,2025-05-25
+56,Holography,2025-09-14
 56,Holography,2025-10-12
 56,Holography,2025-11-09
 56,Holography,2025-12-07
+56,Holography,2026-03-29
+57,Nutritional deficiencies,2024-12-08
+57,Nutritional deficiencies,2025-12-07
 57,Nutritional deficiencies,2026-01-04
 57,Nutritional deficiencies,2026-02-01
-57,Nutritional deficiencies,2026-03-01
 57,Nutritional deficiencies,2026-03-29
+59,Nutritional education,2024-07-21
+59,Nutritional education,2025-04-27
 59,Nutritional education,2025-05-25
+59,Nutritional education,2025-08-17
+59,Nutritional education,2025-09-14
 59,Nutritional education,2025-12-07
 6,Ambient intelligence,2025-10-12
 6,Ambient intelligence,2025-12-07
 6,Ambient intelligence,2026-01-04
+60,Food chains,2023-12-10
+60,Food chains,2024-06-23
+60,Food chains,2024-07-21
+60,Food chains,2024-12-08
+60,Food chains,2025-01-05
+60,Food chains,2025-07-20
+60,Food chains,2025-12-07
+60,Food chains,2026-07-19
+61,Dehydration,2024-04-28
+61,Dehydration,2025-04-27
+61,Dehydration,2025-12-07
 61,Dehydration,2026-01-04
 61,Dehydration,2026-02-01
-61,Dehydration,2026-03-01
+62,Probiotics,2023-11-12
 62,Probiotics,2026-02-01
-63,Dietetics,2026-01-04
-63,Dietetics,2026-02-01
+63,Dietetics,2023-12-10
+63,Dietetics,2024-06-23
+63,Dietetics,2024-12-08
+63,Dietetics,2025-12-07
 63,Dietetics,2026-03-01
 63,Dietetics,2026-03-29
 64,Hunger,2025-02-02
+64,Hunger,2025-09-14
+64,Hunger,2026-08-16
+65,Enteral feeding,2023-12-10
+65,Enteral feeding,2024-07-21
+65,Enteral feeding,2025-01-05
+65,Enteral feeding,2025-05-25
+65,Enteral feeding,2025-08-17
+65,Enteral feeding,2025-09-14
+65,Enteral feeding,2025-12-07
+65,Enteral feeding,2026-01-04
+68,Drinking behaviors,2023-12-10
+68,Drinking behaviors,2024-07-21
 68,Drinking behaviors,2024-08-18
+68,Drinking behaviors,2025-07-20
 68,Drinking behaviors,2025-08-17
+68,Drinking behaviors,2026-01-04
+68,Drinking behaviors,2026-07-19
 68,Drinking behaviors,2026-08-16
+69,Plant nutrition,2023-12-10
+69,Plant nutrition,2024-12-08
+69,Plant nutrition,2025-05-25
+69,Plant nutrition,2025-09-14
 69,Plant nutrition,2025-10-12
 69,Plant nutrition,2025-11-09
 69,Plant nutrition,2025-12-07
-69,Plant nutrition,2026-01-04
 69,Plant nutrition,2026-03-01
+7,Knowledge representation,2023-12-10
+7,Knowledge representation,2024-01-07
+7,Knowledge representation,2024-07-21
 7,Knowledge representation,2024-08-18
+7,Knowledge representation,2024-12-08
+7,Knowledge representation,2025-06-22
 7,Knowledge representation,2025-07-20
 7,Knowledge representation,2025-12-07
+70,Nutritionists,2024-06-23
+70,Nutritionists,2024-11-10
+70,Nutritionists,2024-12-08
+70,Nutritionists,2025-06-22
+70,Nutritionists,2025-12-07
+71,Infant feeding,2023-12-10
+71,Infant feeding,2025-05-25
+71,Infant feeding,2025-08-17
+71,Infant feeding,2025-09-14
 71,Infant feeding,2025-12-07
 71,Infant feeding,2026-01-04
 71,Infant feeding,2026-02-01
 71,Infant feeding,2026-03-01
 71,Infant feeding,2026-03-29
+72,Obesity,2023-12-10
+72,Obesity,2024-07-21
+72,Obesity,2024-12-08
+72,Obesity,2025-05-25
+72,Obesity,2025-08-17
+72,Obesity,2025-09-14
 72,Obesity,2025-12-07
+73,Nutritional diseases,2023-12-10
+73,Nutritional diseases,2025-06-22
+73,Nutritional diseases,2025-07-20
+73,Nutritional diseases,2026-07-19
+74,Postbiotics,2024-11-10
 74,Postbiotics,2025-04-27
+74,Postbiotics,2025-09-14
 74,Postbiotics,2026-02-01
 74,Postbiotics,2026-03-01
+75,Eating behaviors,2023-12-10
+75,Eating behaviors,2024-01-07
 75,Eating behaviors,2024-02-04
+75,Eating behaviors,2024-07-21
 75,Eating behaviors,2024-08-18
 75,Eating behaviors,2024-09-15
+75,Eating behaviors,2025-01-05
+75,Eating behaviors,2025-02-02
+75,Eating behaviors,2025-06-22
+75,Eating behaviors,2025-07-20
 75,Eating behaviors,2025-08-17
-76,Animal nutrition,2024-08-18
+75,Eating behaviors,2026-01-04
+75,Eating behaviors,2026-07-19
+76,Animal nutrition,2023-12-10
+76,Animal nutrition,2024-07-21
+76,Animal nutrition,2024-12-08
+76,Animal nutrition,2025-05-25
+76,Animal nutrition,2025-08-17
+76,Animal nutrition,2025-09-14
 76,Animal nutrition,2025-11-09
 76,Animal nutrition,2025-12-07
 76,Animal nutrition,2026-03-01
 77,Fitness models,2025-04-27
 77,Fitness models,2025-05-25
+77,Fitness models,2025-08-17
+77,Fitness models,2025-09-14
 77,Fitness models,2025-10-12
 77,Fitness models,2025-11-09
-77,Fitness models,2025-12-07
+78,Endurance,2025-12-07
 78,Endurance,2026-01-04
 78,Endurance,2026-02-01
-79,Physical exercise,2025-08-17
+79,Physical exercise,2023-12-10
+79,Physical exercise,2024-07-21
+79,Physical exercise,2025-06-22
+79,Physical exercise,2025-07-20
+79,Physical exercise,2025-12-07
 79,Physical exercise,2026-01-04
 79,Physical exercise,2026-02-01
+79,Physical exercise,2026-07-19
+8,AI risk,2024-08-18
+8,AI risk,2024-12-08
 8,AI risk,2025-01-05
 8,AI risk,2025-03-30
 8,AI risk,2025-04-27
 8,AI risk,2025-05-25
 8,AI risk,2025-12-07
 8,AI risk,2026-01-04
+8,AI risk,2026-03-29
+80,Fitness apps,2025-04-27
 80,Fitness apps,2025-05-25
+80,Fitness apps,2025-09-14
 80,Fitness apps,2025-10-12
 80,Fitness apps,2025-11-09
+81,Fitness influencers,2024-10-13
+81,Fitness influencers,2024-12-08
+81,Fitness influencers,2025-05-25
+81,Fitness influencers,2025-09-14
 81,Fitness influencers,2025-10-12
 81,Fitness influencers,2025-11-09
-82,Flexibility,2024-08-18
+82,Flexibility,2023-12-10
+82,Flexibility,2024-07-21
+82,Flexibility,2024-12-08
+82,Flexibility,2025-12-07
+82,Flexibility,2026-07-19
+84,Medical devices,2023-12-10
+84,Medical devices,2024-12-08
 84,Medical devices,2025-05-25
+84,Medical devices,2025-09-14
 84,Medical devices,2025-12-07
-84,Medical devices,2026-01-04
+84,Medical devices,2026-03-29
+85,Medical equipment,2024-12-08
+85,Medical equipment,2025-12-07
+86,Health informatics,2025-06-22
 86,Health informatics,2025-12-07
+87,Biomaterials,2024-06-23
+87,Biomaterials,2024-07-21
+87,Biomaterials,2024-12-08
 87,Biomaterials,2025-05-25
+87,Biomaterials,2025-09-14
 87,Biomaterials,2025-12-07
 87,Biomaterials,2026-01-04
 87,Biomaterials,2026-03-29
+88,Biomedical engineering,2024-06-23
+88,Biomedical engineering,2025-05-25
+88,Biomedical engineering,2025-06-22
+88,Biomedical engineering,2025-12-07
 89,Medical knives,2025-05-25
+89,Medical knives,2025-09-14
 89,Medical knives,2025-10-12
+89,Medical knives,2026-03-01
+89,Medical knives,2026-03-29
 9,Automated reasoning,2026-02-01
-9,Automated reasoning,2026-03-01
 9,Automated reasoning,2026-03-29
+90,Tissue engineering,2023-12-10
+90,Tissue engineering,2024-06-23
+90,Tissue engineering,2024-07-21
+90,Tissue engineering,2025-05-25
+90,Tissue engineering,2025-08-17
 90,Tissue engineering,2025-09-14
 90,Tissue engineering,2025-12-07
+90,Tissue engineering,2026-03-29
+91,Dental technology,2025-01-05
 91,Dental technology,2025-03-30
 91,Dental technology,2025-04-27
 91,Dental technology,2025-05-25
+91,Dental technology,2025-08-17
+91,Dental technology,2025-12-07
+91,Dental technology,2026-03-29
+92,Medical software,2023-12-10
+92,Medical software,2024-12-08
 92,Medical software,2025-01-05
 92,Medical software,2025-03-30
 92,Medical software,2025-04-27
 92,Medical software,2025-05-25
+92,Medical software,2025-12-07
 92,Medical software,2026-01-04
-92,Medical software,2026-02-01
-92,Medical software,2026-03-01
-92,Medical software,2026-03-29
+93,Circadian rhythm,2024-06-23
+93,Circadian rhythm,2024-07-21
+93,Circadian rhythm,2025-08-17
+93,Circadian rhythm,2025-12-07
 93,Circadian rhythm,2026-01-04
+93,Circadian rhythm,2026-03-29
 94,Sleep physiology,2025-05-25
 94,Sleep physiology,2025-12-07
 94,Sleep physiology,2026-01-04
-94,Sleep physiology,2026-02-01
 94,Sleep physiology,2026-03-29
+95,Hypnotics,2023-12-10
+95,Hypnotics,2024-08-18
+95,Hypnotics,2025-09-14
+95,Hypnotics,2025-12-07
+96,Sleep disorders,2024-07-21
+96,Sleep disorders,2024-08-18
+96,Sleep disorders,2024-12-08
+96,Sleep disorders,2025-12-07
 96,Sleep disorders,2026-01-04
-98,Sleep medicine,2025-11-09
+97,Nightwear,2024-03-03
+97,Nightwear,2025-03-02
+97,Nightwear,2025-09-14
+97,Nightwear,2025-10-12
+97,Nightwear,2026-03-01
 98,Sleep medicine,2025-12-07
-98,Sleep medicine,2026-01-04
-98,Sleep medicine,2026-02-01
-98,Sleep medicine,2026-03-01
 98,Sleep medicine,2026-03-29
+99,Dreams,2025-09-14
+99,Dreams,2025-10-12
