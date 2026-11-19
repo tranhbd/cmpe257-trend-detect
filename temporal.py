@@ -1,6 +1,8 @@
 from pathlib import Path
 import pandas as pd
 
+import matplotlib.pyplot as plt
+
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
@@ -152,7 +154,47 @@ def evaluate_svm(model,test,features, test_name):
         digits=3,
         zero_division=0
     ))
+  
+#build a data graph
+def plot_dataset(dataset, label_col="y"):
+    first_weeks = ["week_1", "week_2", "week_3", "week_4"]
+    last_weeks = ["week_9", "week_10", "week_11", "week_12"]
+
+    # axis=1 calculates one average per example
+    first_avg = dataset[first_weeks].mean(axis=1)
+    last_avg = dataset[last_weeks].mean(axis=1)
+
+    fig, ax = plt.subplots(figsize=(8, 7))
+
+    #set different color for each class
+    for value, label, color in [
+        (0, "Non-emerging", "steelblue"),
+        (1, "Emerging", "darkorange"),
+    ]:
+        mask = dataset[label_col] == value
+        ax.scatter(
+            first_avg[mask],
+            last_avg[mask],
+            color=color,
+            label=f"{label} ({mask.sum():,})",
+            s=18,
+            alpha=0.4,
+            edgecolors="none",
+        )
+
+
+    ax.set(
+        title="Stage 1 dataset · Each dot is one 12-week window",
+        xlabel="Average interest in the first 4 weeks",
+        ylabel="Average interest in the last 4 weeks",
+        xlim=(-1, 101),
+        ylim=(-1, 101),
+        aspect="equal",
+    )
+    ax.legend()
+    fig.tight_layout()
     
+     
 #MAIN FUNCTION
 
 def main():
@@ -160,6 +202,8 @@ def main():
     temporal, events = load_data()
     dataset = create_dataset(temporal,events)
     output = DATA/"svm_dataset.csv"
+    #generate a graph for dataset
+    #plot_dataset(dataset)
     
     train, test = split_dataset(dataset)
     features = [f"week_{week}" for week in range(1, WINDOW_SIZE + 1)]
@@ -170,6 +214,7 @@ def main():
     model = train_svm(train, features,label="y")
 
     evaluate_svm(model, test, features,"Test - Unseen topics")
+    #plt.show()
     return model
 
 if __name__ == "__main__":
