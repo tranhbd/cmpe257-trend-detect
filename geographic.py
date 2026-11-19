@@ -448,6 +448,7 @@ def main():
     )
 
     print("\nForecasts saved to data/geographic_forecasts.csv")
+    return models
 
 if __name__ == "__main__":
     main()
