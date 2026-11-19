@@ -6,6 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
+from sklearn.metrics import precision_recall_fscore_support
+
 
 DATA = Path("data")
 
@@ -65,46 +67,71 @@ def create_dataset(temporal, events):
     
 #split dataset by topics (test A), then by dates (test B)
 def split_dataset(dataset):
-    #Test A
     # Hold out 20% of the topics. Every window from these topics
     # stays out of training.
     topic_ids = sorted(dataset["id"].unique())
-    train_topics, held_out_topics = train_test_split(
+    train_topics, test_topics = train_test_split(
         topic_ids,
         test_size=0.20,
         random_state=42
     )
-    #Test B
-    # Reserve the latest 20% of window start dates for testing.
-    start_dates = sorted(dataset["start"].unique())
-    split_index = int(len(start_dates) * 0.80)
-    cutoff = pd.Timestamp(start_dates[split_index])
+    #keep all windows of test topics separate from train topics
+    train = dataset[dataset["id"].isin(train_topics)].copy()
+    test = dataset[dataset["id"].isin(test_topics)].copy()
 
-    familiar_topic = dataset["id"].isin(train_topics)
-    unseen_topic = dataset["id"].isin(held_out_topics)
-
-    # A training window must finish before the test period begins.
-    early_window = dataset["end"] < cutoff
-    later_window = dataset["start"] >= cutoff
-
-    train = dataset[familiar_topic & early_window].copy()
-    test_familiar = dataset[familiar_topic & later_window].copy()
-    test_unseen = dataset[unseen_topic & later_window].copy()
-
-    return train, test_familiar, test_unseen, cutoff
+    return train, test
 
 #SVM training
-def train_svm(train, features):
-    x = train[features]
-    y = train["y"]
+def train_svm(train, features,label):
+    ids = sorted(train["id"].unique())
 
+    #split the dataset to training and validation set
+    fit_topics, validate_topics = train_test_split(
+        ids,
+        test_size=0.20,
+        random_state=42,
+    )
+    #keep all windows of test topics separate from train topics
+    fit_set = train[train["id"].isin(fit_topics)].copy()
+    validate_set = train[train["id"].isin(validate_topics)].copy()
+    print(f"Using {len(fit_topics)} topics for training "
+          f"{len(validate_topics)} for validation")
+    
     model = make_pipeline(StandardScaler(),SVC(kernel="rbf",
                                                C=1.0,
                                                gamma="scale",
                                                class_weight="balanced"))
+    best_c = 1
+    best_f1 = -1
+    #training and validating the model using diffrent C=1,0.1,and 10
+    print("\n Validation resut")
+    print(f"{'C':>5} {'Precision':>10} {'Recall':>10} {'F1':>10}")
+    for c in [1, 0.1,10,100]:
+        model.set_params(svc__C=c)
+        model.fit(fit_set[features],fit_set[label])
+        predictions = model.predict(validate_set[features])
 
-    #training the model
-    model.fit(x,y)
+        precision, recall, f1, _ = precision_recall_fscore_support(
+            validate_set[label],
+            predictions,
+            average="binary",
+            pos_label=1,
+            zero_division=0
+        )
+       
+        print(f"{c:>5g} {precision:>10.3f} {recall:>10.3f} {f1:>10.3f}")
+        
+        #choosing model with best f1
+        if f1 > best_f1:
+            best_f1 = f1
+            best_c = c
+    #print the best C value
+    print(f"\n Selected C: {best_c}")
+    
+    #refit the svm on all 192 topics
+    model.set_params(svc__C=best_c)
+    model.fit(train[features],train[label])
+    
     return model
 
 #SVM testing
@@ -134,16 +161,16 @@ def main():
     dataset = create_dataset(temporal,events)
     output = DATA/"svm_dataset.csv"
     
-    train, test_familiar, test_unseen, cutoff = split_dataset(dataset)
-    feature_columns = [f"week_{week}" for week in range(1, WINDOW_SIZE + 1)]
+    train, test = split_dataset(dataset)
+    features = [f"week_{week}" for week in range(1, WINDOW_SIZE + 1)]
 
     print(f"Training topics: {train["id"].nunique()}")
     print(f"Training windows: {len(train)}")
 
-    model = train_svm(train, feature_columns)
+    model = train_svm(train, features,label="y")
 
-    evaluate_svm(model, test_familiar, feature_columns, "Test A - Familiar topics")
-    evaluate_svm(model, test_unseen, feature_columns, "Test B - Unseen topics")
+    evaluate_svm(model, test, features,"Test - Unseen topics")
+    return model
 
 if __name__ == "__main__":
     main()
