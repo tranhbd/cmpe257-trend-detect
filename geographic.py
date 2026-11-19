@@ -332,12 +332,7 @@ def main():
         "data/emerging.csv"
     )
 
-    # Validate both datasets
-    print("GEOGRAPHIC DATA VALIDATION")
-    validate_data(geographic_data)
 
-    print("\nEMERGING DATA VALIDATION")
-    validate_data(emerging_data)
 
     # Merge geographic observations with emerging trend information
     combined_data = merge_data(
@@ -345,7 +340,6 @@ def main():
         emerging_data
     )
 
-    print("\nCombined data shape:", combined_data.shape)
 
     # Create the 1-week, 2-week, and 4-week prediction targets
     prediction_data = create_prediction_targets(
@@ -362,7 +356,6 @@ def main():
         model_data
     )
 
-    print("\nPrepared model data shape:", prepared_data.shape)
 
     # Split the data into training, validation, and testing sets
     train_data, validation_data, test_data = split_model_data(
@@ -419,11 +412,6 @@ def main():
         model_data
     )
 
-    print("\nEMERGENCE-DATE FORECAST")
-    print("Forecast rows:", len(forecasts))
-    print("Topics forecasted:", forecasts["topic_id"].nunique())
-
-    # Display a sample of the generated forecasts
     forecast_columns = [
         "topic_id",
         "topic_name",
@@ -435,11 +423,6 @@ def main():
         "predicted_interest_4w"
     ]
 
-    print(
-        forecasts[forecast_columns]
-        .head(20)
-        .to_string(index=False)
-    )
 
     # Save all emergence-date forecasts to a CSV file
     forecasts[forecast_columns].to_csv(
